@@ -52,6 +52,14 @@ LiveLens is privacy-first and designed without forced accounts, forced watermark
 
 ## Key Features
 
+### Rendering Engine
+
+- GPU-accelerated rendering powered by OpenGL ES.
+- Render scenes using an optimized FBO-based pipeline.
+- Single scene composition reused for preview, streaming, and recording.
+- Real-time source transformations including scaling, rotation, cropping, and layering.
+- Designed for efficient mobile streaming and recording workloads.
+
 ### Streaming & Recording
 
 - Stream using custom RTMP URLs and stream keys.
@@ -73,6 +81,8 @@ LiveLens is privacy-first and designed without forced accounts, forced watermark
 ### Audio Controls
 
 - Capture microphone and internal audio together on supported Android devices.
+-  Record and stream using Mono or Stereo microphone input on supported devices.
+- Automatically falls back to Mono on devices without Stereo microphone support.
 - Use noise suppression, echo cancellation, gain boost, and noise gate controls.
 - Apply high-pass filtering and smart automatic gain.
 - Monitor microphone audio in real time.
