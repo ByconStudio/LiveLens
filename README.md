@@ -18,6 +18,9 @@
   <a href="https://discord.gg/kUqmbKhs6w">
     <img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join LiveLens Discord">
   </a>
+  <a href="https://github.com/ArpanLevel/LiveLens/discussions">
+    <img src="https://img.shields.io/badge/Join-Discussions-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Join LiveLens Discussions">
+  </a>
 </p>
 
 ---
@@ -46,7 +49,7 @@
 
 ## About LiveLens
 
-**LiveLens** brings an OBS-style production workflow to Android creators. It combines high-quality streaming and recording with scenes, multi-source layouts, advanced audio controls, overlays, floating controls, and built-in VTuber tools.
+**LiveLens** brings an OBS-style production workflow to Android creators. It combines high-quality streaming and recording with scenes, multi-source layouts, advanced audio controls, overlays, and VTuber tools—all optimized for mobile performance.
 
 LiveLens is privacy-first and designed without forced accounts, forced watermarks, ads, or hidden paywalls.
 
@@ -136,16 +139,18 @@ LiveLens is privacy-first and designed without forced accounts, forced watermark
 - Powerful tools for mobile creators, gamers, and VTubers.
 - No forced watermark, ads, account, or hidden paywall.
 
-## Links
+## Community & Support
 
-- [Official Website](https://www.livelens.live/)
-- [All Features](https://www.livelens.live/pages/feature.html)
-- [Floating Control Themes](https://www.livelens.live/pages/overlays.html)
-- [Voice Chat](https://www.livelens.live/voice/voice.html)
-- [Contact & Support](https://www.livelens.live/pages/contact.html)
-- [Privacy Policy](https://www.livelens.live/pages/privacy.html)
-- [Terms of Service](https://www.livelens.live/pages/tos.html)
-- [Discord Community](https://discord.gg/kUqmbKhs6w)
+- 💬 [GitHub Discussions](https://github.com/ArpanLevel/LiveLens/discussions) - Ask questions, share ideas, and connect with the community
+- 📖 [FAQ](./FAQ.md) - Find answers to common questions
+- 🔗 [Official Website](https://www.livelens.live/)
+- ✨ [All Features](https://www.livelens.live/pages/feature.html)
+- 🎨 [Floating Control Themes](https://www.livelens.live/pages/overlays.html)
+- 🎤 [Voice Chat](https://www.livelens.live/voice/voice.html)
+- 💬 [Discord Community](https://discord.gg/kUqmbKhs6w)
+- 📧 [Contact & Support](https://www.livelens.live/pages/contact.html)
+- 🔒 [Privacy Policy](https://www.livelens.live/pages/privacy.html)
+- 📋 [Terms of Service](https://www.livelens.live/pages/tos.html)
 
 ## Developer
 
