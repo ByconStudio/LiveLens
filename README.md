@@ -152,6 +152,33 @@ LiveLens is privacy-first and designed without forced accounts, forced watermark
 - 🔒 [Privacy Policy](https://www.livelens.live/pages/privacy.html)
 - 📋 [Terms of Service](https://www.livelens.live/pages/tos.html)
 
+## Report Issues & Request Features
+
+Found a bug or have a feature idea? We'd love to hear from you!
+
+### 🐛 Report a Bug
+- Check the [FAQ](./FAQ.md) and [existing issues](https://github.com/ArpanLevel/LiveLens/issues) first
+- Open a [Bug Report](https://github.com/ArpanLevel/LiveLens/issues/new?template=bug_report.yml)
+- Include device info, version, steps to reproduce, and any error logs
+
+### ✨ Request a Feature
+- Browse [existing feature requests](https://github.com/ArpanLevel/LiveLens/issues?q=is%3Aissue+label%3Aenhancement) to avoid duplicates
+- Open a [Feature Request](https://github.com/ArpanLevel/LiveLens/issues/new?template=feature_request.yml)
+- Describe the feature, problem it solves, and proposed solution
+
+### 🎬 Streaming or 📹 Recording Issues?
+- Open a [Streaming Issue](https://github.com/ArpanLevel/LiveLens/issues/new?template=streaming_issue.yml)
+- Open a [Recording Issue](https://github.com/ArpanLevel/LiveLens/issues/new?template=recording_issue.yml)
+- Include bitrate, resolution, FPS, and internet speed details
+
+### 🎤 Audio Issues?
+- Open an [Audio Issue](https://github.com/ArpanLevel/LiveLens/issues/new?template=audio_issue.yml)
+- Describe the audio problem and your audio settings
+
+### 👾 VTuber Issues?
+- Open a [VTuber Issue](https://github.com/ArpanLevel/LiveLens/issues/new?template=vtuber_issue.yml)
+- Include model format, Cubism version, and specific problem details
+
 ## Developer
 
 Created and maintained by **Arpan**.
