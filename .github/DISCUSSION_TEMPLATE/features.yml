@@ -1,0 +1,60 @@
+title: "✨ Feature Requests"
+labels: ["enhancement", "feature-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ✨ Feature Requests
+        
+        Have an idea to make LiveLens better? We'd love to hear it! Share your feature requests and ideas here.
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: "Feature Description"
+      description: "Describe the feature you'd like to see"
+      placeholder: "I would like LiveLens to have the ability to..."
+    validations:
+      required: true
+  
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Problem It Solves"
+      description: "What problem or limitation does this feature address?"
+      placeholder: "Currently, I can't... This would help me..."
+    validations:
+      required: true
+  
+  - type: textarea
+    id: solution
+    attributes:
+      label: "Proposed Solution"
+      description: "How do you envision this feature working?"
+      placeholder: "The feature could work by..."
+    validations:
+      required: false
+  
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: "Alternative Approaches"
+      description: "Any other ways this could be implemented?"
+      placeholder: "Another way could be..."
+    validations:
+      required: false
+  
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priority"
+      options:
+        - "Low (Nice to have)"
+        - "Medium (Would be helpful)"
+        - "High (Important)"
+  
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        💡 **Note:** Please check existing feature requests before submitting to avoid duplicates!

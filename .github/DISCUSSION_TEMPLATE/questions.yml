@@ -1,0 +1,68 @@
+title: "❓ Questions & Support"
+labels: ["question", "help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ❓ Questions & Support
+        
+        Ask questions about LiveLens features, setup, troubleshooting, or anything else you need help with!
+  
+  - type: textarea
+    id: question
+    attributes:
+      label: "What's your question?"
+      description: "Describe your question in detail"
+      placeholder: "I'm trying to... but I'm not sure how to..."
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Category"
+      options:
+        - "General Usage"
+        - "Streaming"
+        - "Recording"
+        - "Scenes & Sources"
+        - "Audio Settings"
+        - "VTuber Tools"
+        - "Voice Chat"
+        - "Settings & Configuration"
+        - "Other"
+    validations:
+      required: true
+  
+  - type: input
+    id: device
+    attributes:
+      label: "Device Information"
+      description: "What device are you using? (e.g., Samsung Galaxy S23, Android 14)"
+      placeholder: "Device Model, Android Version"
+    validations:
+      required: false
+  
+  - type: input
+    id: version
+    attributes:
+      label: "LiveLens Version"
+      description: "What version of LiveLens are you using?"
+      placeholder: "v1.0.0 or 'Latest'"
+    validations:
+      required: false
+  
+  - type: textarea
+    id: details
+    attributes:
+      label: "Additional Details"
+      description: "Any additional context, screenshots, or steps you've already tried"
+      placeholder: "I've already tried... The error message is..."
+    validations:
+      required: false
+  
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        💡 **Tip:** Check our [FAQ](https://www.livelens.live/pages/contact.html) and [Features Guide](https://www.livelens.live/pages/feature.html) first - your answer might be there!
