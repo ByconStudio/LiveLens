@@ -27,22 +27,22 @@
 
 ## Preview
 
-<p align="center">
-  <img src="https://i.ibb.co/0jMWg4zK/Screenshot-20260416-154149.png" width="260" alt="LiveLens streaming screen">
-  <img src="https://i.ibb.co/8L6fBH2s/Screenshot-20260416-154115.png" width="260" alt="LiveLens scene editor">
-  <img src="https://i.ibb.co/84MzKXzc/Screenshot-20260416-154041.png" width="260" alt="LiveLens source controls">
-</p>
+<div align="center" style="overflow-x: auto; white-space: nowrap;">
+  <div style="display: inline-flex; gap: 10px; padding: 20px;">
+    <img src="https://i.ibb.co/0jMWg4zK/Screenshot-20260416-154149.png" width="260" alt="LiveLens streaming screen" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://i.ibb.co/8L6fBH2s/Screenshot-20260416-154115.png" width="260" alt="LiveLens scene editor" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://i.ibb.co/84MzKXzc/Screenshot-20260416-154041.png" width="260" alt="LiveLens source controls" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://i.ibb.co/0VBypg4v/Screenshot-20260416-154002.png" width="260" alt="LiveLens audio controls" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://i.ibb.co/gMBSfTFb/Screenshot-20260416-153933.png" width="260" alt="LiveLens overlay controls" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://i.ibb.co/PypXDPf/Screenshot-20260416-153905.png" width="260" alt="LiveLens settings" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://i.ibb.co/gZmmh4ff/Screenshot-20260416-153839.png" width="260" alt="LiveLens feature screen" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://i.ibb.co/4wxnM3JF/Screenshot-20260416-153825.png" width="260" alt="LiveLens mobile production tools" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <img src="https://i.ibb.co/ks1kWKKh/Screenshot-20260416-153812.png" width="260" alt="LiveLens stream setup" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://i.ibb.co/0VBypg4v/Screenshot-20260416-154002.png" width="260" alt="LiveLens audio controls">
-  <img src="https://i.ibb.co/gMBSfTFb/Screenshot-20260416-153933.png" width="260" alt="LiveLens overlay controls">
-  <img src="https://i.ibb.co/PypXDPf/Screenshot-20260416-153905.png" width="260" alt="LiveLens settings">
-</p>
-
-<p align="center">
-  <img src="https://i.ibb.co/gZmmh4ff/Screenshot-20260416-153839.png" width="260" alt="LiveLens feature screen">
-  <img src="https://i.ibb.co/4wxnM3JF/Screenshot-20260416-153825.png" width="260" alt="LiveLens mobile production tools">
-  <img src="https://i.ibb.co/ks1kWKKh/Screenshot-20260416-153812.png" width="260" alt="LiveLens stream setup">
+<p align="center" style="margin-top: 15px; font-size: 12px; color: #666;">
+  💡 <strong>Tip:</strong> Scroll horizontally to see more screenshots →
 </p>
 
 ---
@@ -188,3 +188,12 @@ Created and maintained by **Arpan**.
 All rights reserved © LiveLens.
 
 This project is not open-source.
+
+<style>
+  @media (max-width: 768px) {
+    div[style*="overflow-x"] {
+      -webkit-overflow-scrolling: touch;
+      scroll-behavior: smooth;
+    }
+  }
+</style>
