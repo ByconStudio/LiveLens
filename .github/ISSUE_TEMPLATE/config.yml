@@ -1,0 +1,29 @@
+---
+name: Issue Report
+about: Report a bug or issue
+title: "[Issue] "
+labels: ["bug"]
+---
+
+## Issue Type
+<!-- Please select the most appropriate issue type -->
+- [ ] Bug Report
+- [ ] Streaming Issue
+- [ ] Recording Issue
+- [ ] Audio Issue
+- [ ] VTuber Issue
+- [ ] Other
+
+## Description
+<!-- Describe your issue here -->
+
+## Device Information
+- Device Model:
+- Android Version:
+- LiveLens Version:
+
+## Steps to Reproduce
+<!-- List the steps to reproduce the issue -->
+
+## Additional Information
+<!-- Add any other relevant information -->
