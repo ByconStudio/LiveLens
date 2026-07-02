@@ -25,7 +25,7 @@ Stream • Record • Create • Control • Produce
 
 <div align="center">
 
-![LiveLens Preview Grid](https://raw.githubusercontent.com/ArpanLevel/LiveLens/main/assets/preview-banner.png)
+![LiveLens Preview Grid](https://pub-d377e2a167cf4f70b6062f46e7e9830d.r2.dev/ezgif-23de9c8401c045c8.gif)
 
 **Desktop-Class Production on Mobile** → Scroll to explore all features
 
