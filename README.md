@@ -106,18 +106,25 @@ Whether you're a **gamer, streamer, content creator, or VTuber**, LiveLens gives
 
 ---
 
-## 📋 Feature Comparison
+### 📋 Mobile Streaming Feature Comparison
 
-| Feature | LiveLens | OBS | Streamlabs |
-|---------|----------|-----|-----------|
-| **Multi-Stream** | ✅ | ✅ | ✅ |
-| **Live2D Support** | ✅ | ❌ | ❌ |
-| **Mobile Native** | ✅ | ❌ | ❌ |
-| **No Watermark** | ✅ | ✅ | ⚠️ (Premium) |
-| **No Forced Account** | ✅ | ✅ | ❌ |
-| **Voice Chat** | ✅ | ❌ | ⚠️ (Paid) |
-| **GPU Rendering** | ✅ | ✅ | ✅ |
-
+| Feature | LiveLens | Many Mobile Streaming Apps |
+|---------|----------|----------------------------|
+| 🎬 Multi-Scene Support | ✅ | ⚠️ Varies |
+| 📱 Mobile Native | ✅ | ✅ |
+| 🎭 Live2D / VTuber Support | ✅ | ❌ / Limited |
+| 🌐 Web Source Support | ✅ | ⚠️ Limited |
+| 🖼️ Image & GIF Sources | ✅ | ✅ |
+| 🎥 Video Sources | ✅ | ⚠️ Varies |
+| 📝 Advanced Text Editor | ✅ | ⚠️ Basic |
+| 🎙️ Voice Chat Integration | ✅ | ❌ |
+| 🎵 Background Music | ✅ | ⚠️ Varies |
+| 📺 Internal Audio Capture | ✅ | ⚠️ Device Dependent |
+| 🧩 Scene Import / Export | ✅ | ❌ / Limited |
+| 🎮 Adaptive Performance | ✅ | ⚠️ Varies |
+| 🚫 Watermark | ❌ None | ⚠️ Varies |
+| 🔐 Account Required | ❌ No | ⚠️ Varies |
+| ⚡ GPU Rendering | ✅ | ✅ |
 ---
 
 ## ⚠️ Current Limitations
