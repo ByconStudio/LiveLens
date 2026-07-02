@@ -14,6 +14,7 @@ Stream • Record • Create • Control • Produce
 
 [![Download](https://img.shields.io/badge/📲_Download-LiveLens-2563EB?style=for-the-badge&labelColor=1f2937)](https://www.livelens.live/)
 [![Features](https://img.shields.io/badge/✨_Explore-All_Features-7C3AED?style=for-the-badge&labelColor=1f2937)](https://www.livelens.live/pages/feature.html)
+[![Star us on GitHub](https://img.shields.io/github/stars/ArpanLevel/LiveLens?style=for-the-badge&logo=github&labelColor=1f2937&color=FFD700)](https://github.com/ArpanLevel/LiveLens/stargazers)
 [![Discord](https://img.shields.io/badge/💬_Join-Discord-5865F2?style=for-the-badge&labelColor=1f2937)](https://discord.gg/kUqmbKhs6w)
 [![Discussions](https://img.shields.io/badge/💡_Community-Discussions-1f6feb?style=for-the-badge&labelColor=1f2937)](https://github.com/ArpanLevel/LiveLens/discussions)
 
