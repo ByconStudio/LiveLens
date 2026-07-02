@@ -1,199 +1,210 @@
-<h1 align="center">LiveLens</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Professional live streaming, recording, scene control, and VTuber tools for Android.</strong>
-</p>
+# 🎬 LiveLens
 
-<p align="center">
-  Stream, record, manage sources, control audio, and run your production directly from your phone.
-</p>
+### Professional Live Streaming, Recording & Production Suite for Android
 
-<p align="center">
-  <a href="https://www.livelens.live/">
-    <img src="https://img.shields.io/badge/Download-LiveLens-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="Download LiveLens">
-  </a>
-  <a href="https://www.livelens.live/pages/feature.html">
-    <img src="https://img.shields.io/badge/View-All_Features-7C3AED?style=for-the-badge" alt="View LiveLens features">
-  </a>
-  <a href="https://discord.gg/kUqmbKhs6w">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join LiveLens Discord">
-  </a>
-  <a href="https://github.com/ArpanLevel/LiveLens/discussions">
-    <img src="https://img.shields.io/badge/Join-Discussions-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Join LiveLens Discussions">
-  </a>
-</p>
+**PC-style production control directly from your phone**
+
+Stream • Record • Create • Control • Produce
 
 ---
 
-## Preview
+### ⚡ Quick Links
 
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
-  <div style="display: inline-flex; gap: 10px; padding: 20px;">
-    <img src="https://i.ibb.co/0jMWg4zK/Screenshot-20260416-154149.png" width="260" alt="LiveLens streaming screen" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://i.ibb.co/8L6fBH2s/Screenshot-20260416-154115.png" width="260" alt="LiveLens scene editor" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://i.ibb.co/84MzKXzc/Screenshot-20260416-154041.png" width="260" alt="LiveLens source controls" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://i.ibb.co/0VBypg4v/Screenshot-20260416-154002.png" width="260" alt="LiveLens audio controls" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://i.ibb.co/gMBSfTFb/Screenshot-20260416-153933.png" width="260" alt="LiveLens overlay controls" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://i.ibb.co/PypXDPf/Screenshot-20260416-153905.png" width="260" alt="LiveLens settings" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://i.ibb.co/gZmmh4ff/Screenshot-20260416-153839.png" width="260" alt="LiveLens feature screen" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://i.ibb.co/4wxnM3JF/Screenshot-20260416-153825.png" width="260" alt="LiveLens mobile production tools" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <img src="https://i.ibb.co/ks1kWKKh/Screenshot-20260416-153812.png" width="260" alt="LiveLens stream setup" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  </div>
+[![Download](https://img.shields.io/badge/📲_Download-LiveLens-2563EB?style=for-the-badge&labelColor=1f2937)](https://www.livelens.live/)
+[![Features](https://img.shields.io/badge/✨_Explore-All_Features-7C3AED?style=for-the-badge&labelColor=1f2937)](https://www.livelens.live/pages/feature.html)
+[![Discord](https://img.shields.io/badge/💬_Join-Discord-5865F2?style=for-the-badge&labelColor=1f2937)](https://discord.gg/kUqmbKhs6w)
+[![Discussions](https://img.shields.io/badge/💡_Community-Discussions-1f6feb?style=for-the-badge&labelColor=1f2937)](https://github.com/ArpanLevel/LiveLens/discussions)
+
+---
+
 </div>
 
-<p align="center" style="margin-top: 15px; font-size: 12px; color: #666;">
-  💡 <strong>Tip:</strong> Scroll horizontally to see more screenshots →
-</p>
+## 📸 Visual Preview
+
+<div align="center">
+
+![LiveLens Preview Grid](https://raw.githubusercontent.com/ArpanLevel/LiveLens/main/assets/preview-banner.png)
+
+**Desktop-Class Production on Mobile** → Scroll to explore all features
+
+</div>
 
 ---
 
-## About LiveLens
+## 🎯 What is LiveLens?
 
-**LiveLens** brings an OBS-style production workflow to Android creators. It combines high-quality streaming and recording with scenes, multi-source layouts, advanced audio controls, overlays, and VTuber tools—all optimized for mobile performance.
+**LiveLens** brings **OBS-style production workflow** to Android creators. It's everything you need for professional streaming, recording, and content creation—all from your mobile device.
 
-LiveLens is privacy-first and designed without forced accounts, forced watermarks, ads, or hidden paywalls.
+Whether you're a **gamer, streamer, content creator, or VTuber**, LiveLens gives you enterprise-grade tools without the enterprise price tag.
 
-## Key Features
+### ✨ Why Choose LiveLens?
 
-### Rendering Engine
+- 🎮 **PC-Quality Control** - OBS-like interface on Android
+- 🔒 **Privacy First** - No mandatory accounts, no forced watermarks, no ads
+- 🚀 **Multi-Stream Ready** - Stream to multiple platforms simultaneously  
+- 🎬 **Professional Recording** - High-bitrate local recording while streaming
+- 🎨 **Scene Management** - Complex scene setups with ease
+- 🎤 **Studio-Grade Audio** - Advanced audio processing & controls
 
-- GPU-accelerated rendering powered by OpenGL ES.
-- Render scenes using an optimized FBO-based pipeline.
-- Single scene composition reused for preview, streaming, and recording.
-- Real-time source transformations including scaling, rotation, cropping, and layering.
-- Designed for efficient mobile streaming and recording workloads.
+---
 
-### Streaming & Recording
+## 🚀 Key Features
 
-- Stream using custom RTMP URLs and stream keys.
-- Stream directly to supported platforms such as Twitch.
-- Multi-stream to multiple platforms simultaneously.
-- Record high-quality video locally while streaming.
-- Choose resolutions from 480p up to 4K with 30 or 60 FPS.
-- Select H.264 or H.265 encoders based on device support.
-- Fine-tune bitrate and keyframe intervals.
+### 🎬 **Rendering Engine**
+- ⚡ GPU-accelerated via OpenGL ES
+- 🎯 Optimized FBO-based pipeline for mobile
+- 🔄 Real-time transformations (scale, rotate, crop, layer)
+- 🖼️ Single scene composition for preview, streaming & recording
 
-### Scenes & Sources
+### 📡 **Streaming & Recording**
+- 🌐 Custom RTMP URLs with multi-stream support
+- 📺 Direct streaming to **Twitch & major platforms**
+- 📹 4K recording with 30/60 FPS
+- ⚙️ H.264/H.265 encoder selection
+- 🎚️ Fine-tune bitrate & keyframe intervals
+- 🎯 Adaptive quality based on device performance
 
-- Create, organize, rename, import, and export multiple scenes.
-- Add screen, text, image, camera, video, web, GIF, and VTuber sources.
-- Drag, scale, rotate, crop, lock, hide, and reorder sources.
-- Edit and organize sources while streaming or recording.
-- Use 16:9 and 9:16 canvas layouts with alignment and snap guides.
+### 🎭 **Scenes & Sources**
+- 📋 Unlimited scene creation & organization
+- 🖼️ Source Types: Screen • Text • Image • Camera • Video • Web • GIF • VTuber
+- ✏️ Edit live while streaming/recording
+- 🔒 Lock, hide, reorder sources instantly
+- 📐 16:9 & 9:16 canvas with smart alignment guides
+- 🎨 Drag-drop interface with precision tools
 
-### Audio Controls
+### 🎙️ **Professional Audio**
+- 🎚️ Capture microphone + system audio simultaneously
+- 🔊 Mono/Stereo input support (auto-fallback)
+- 🛡️ Noise suppression & echo cancellation
+- 📈 Automatic gain control & noise gate
+- 🔊 Real-time audio monitoring
+- 🎵 Floating audio level adjusters
 
-- Capture microphone and internal audio together on supported Android devices.
--  Record and stream using Mono or Stereo microphone input on supported devices.
-- Automatically falls back to Mono on devices without Stereo microphone support.
-- Use noise suppression, echo cancellation, gain boost, and noise gate controls.
-- Apply high-pass filtering and smart automatic gain.
-- Monitor microphone audio in real time.
-- Adjust microphone and internal audio levels from floating controls.
+### 🎨 **Overlays & Stream Tools**
+- 🔔 Custom BRB & Starting Soon screens
+- ⏱️ Customizable countdown timers
+- 🎵 Background music integration
+- 🌈 Full styling control for text & timers
+- 💬 Notification & floating controls
+- 📤 Import/Export JSON theme customization
 
-### Overlays & Stream Tools
+### 👾 **VTuber-Focused Features**
+- 📦 Live2D Cubism support (up to v5.1)
+- 🎤 Real-time microphone lip-sync
+- 🎭 Physics simulation & expressions
+- 👆 Touch tracking for interactions
+- ⚙️ Real-time parameter editor
+- 🎬 Breathing & idle motion controls
 
-- Show BRB and Starting Soon screens using custom images or GIFs.
-- Add customizable countdown timers and background music.
-- Style text, timer, and background elements.
-- Use notification and floating controls for quick stream actions.
-- Import and export JSON themes for floating control customization.
+### 🎧 **Voice Chat**
+- 🚀 Account-free voice rooms
+- 🔗 Deep-link sharing for instant joins
+- 💻 Cross-app communication (LiveLens ↔ Lite)
+- 🤝 Team coordination with low-latency audio
 
-### VTuber Tools
+---
 
-- Import Live2D Cubism models with support up to Cubism 5.1.
-- Use real-time microphone lip sync, physics, expressions, and touch tracking.
-- Edit model parameters with instant visual feedback.
-- Control breathing, idle motion, opacity, and expressions.
-- Access VTuber settings from a compact floating inspector.
+## 📋 Feature Comparison
 
-### Voice Chat
+| Feature | LiveLens | OBS | Streamlabs |
+|---------|----------|-----|-----------|
+| **Multi-Stream** | ✅ | ✅ | ✅ |
+| **Live2D Support** | ✅ | ❌ | ❌ |
+| **Mobile Native** | ✅ | ❌ | ❌ |
+| **No Watermark** | ✅ | ✅ | ⚠️ (Premium) |
+| **No Forced Account** | ✅ | ✅ | ❌ |
+| **Voice Chat** | ✅ | ❌ | ⚠️ (Paid) |
+| **GPU Rendering** | ✅ | ✅ | ✅ |
 
-- Create and join voice rooms without an account.
-- Share deep links for quick room joining.
-- Communicate between the LiveLens main app and LiveLens Lite.
-- Coordinate streaming teams and gaming squads with low-latency voice chat.
+---
 
-## Current Limitations
+## ⚠️ Current Limitations
 
-- Scene switching is unavailable during active streaming or recording.
-- Maximum quality, source count, and multi-stream stability depend on device performance.
-- Some capture and background behaviors are restricted by Android system limitations.
+- 🔄 Scene switching unavailable during active stream/record
+- 📊 Max quality & source count depend on device performance
+- 🎬 Some Android system capture limitations apply
 
-## Download
+---
 
-<p align="center">
-  <a href="https://www.livelens.live/">
-    <img src="https://img.shields.io/badge/Download_from-livelens.live-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="Download LiveLens from livelens.live">
-  </a>
-</p>
+## 📥 Download & Installation
 
-<p align="center">
-  Download the latest available LiveLens build from the official website.
-</p>
+<div align="center">
 
-## Why LiveLens?
+[![Download Latest Build](https://img.shields.io/badge/📲_Get_LiveLens-Official_Website-2563EB?style=for-the-badge&logo=android&logoColor=white)](https://www.livelens.live/)
 
-- PC-style production control built specifically for Android.
-- Stream, record, edit scenes, and manage audio from one device.
-- Powerful tools for mobile creators, gamers, and VTubers.
-- No forced watermark, ads, account, or hidden paywall.
+**Download the latest LiveLens build from our official website**
 
-## Community & Support
+</div>
 
-- 💬 [GitHub Discussions](https://github.com/ArpanLevel/LiveLens/discussions) - Ask questions, share ideas, and connect with the community
-- 📖 [FAQ](./FAQ.md) - Find answers to common questions
-- 🔗 [Official Website](https://www.livelens.live/)
-- ✨ [All Features](https://www.livelens.live/pages/feature.html)
-- 🎨 [Floating Control Themes](https://www.livelens.live/pages/overlays.html)
-- 🎤 [Voice Chat](https://www.livelens.live/voice/voice.html)
-- 💬 [Discord Community](https://discord.gg/kUqmbKhs6w)
-- 📧 [Contact & Support](https://www.livelens.live/pages/contact.html)
-- 🔒 [Privacy Policy](https://www.livelens.live/pages/privacy.html)
-- 📋 [Terms of Service](https://www.livelens.live/pages/tos.html)
+---
 
-## Report Issues & Request Features
+## 🤝 Community & Support
 
-Found a bug or have a feature idea? We'd love to hear from you!
+| 📖 Resources |  |
+|-------------|---|
+| 💬 **Community Chat** | [GitHub Discussions](https://github.com/ArpanLevel/LiveLens/discussions) |
+| ❓ **FAQ & Help** | [Frequently Asked Questions](./FAQ.md) |
+| 🌐 **Official Website** | [livelens.live](https://www.livelens.live/) |
+| ✨ **All Features** | [Feature Showcase](https://www.livelens.live/pages/feature.html) |
+| 🎨 **Themes** | [Floating Control Themes](https://www.livelens.live/pages/overlays.html) |
+| 🎤 **Voice** | [Voice Chat Demo](https://www.livelens.live/voice/voice.html) |
+| 💬 **Discord** | [Join Server](https://discord.gg/kUqmbKhs6w) |
+| 📧 **Contact** | [Support & Feedback](https://www.livelens.live/pages/contact.html) |
 
-### 🐛 Report a Bug
-- Check the [FAQ](./FAQ.md) and [existing issues](https://github.com/ArpanLevel/LiveLens/issues) first
-- Open a [Bug Report](https://github.com/ArpanLevel/LiveLens/issues/new?template=bug_report.yml)
-- Include device info, version, steps to reproduce, and any error logs
+---
 
-### ✨ Request a Feature
-- Browse [existing feature requests](https://github.com/ArpanLevel/LiveLens/issues?q=is%3Aissue+label%3Aenhancement) to avoid duplicates
-- Open a [Feature Request](https://github.com/ArpanLevel/LiveLens/issues/new?template=feature_request.yml)
-- Describe the feature, problem it solves, and proposed solution
+## 🐛 Bug Reports & Feature Requests
 
-### 🎬 Streaming or 📹 Recording Issues?
-- Open a [Streaming Issue](https://github.com/ArpanLevel/LiveLens/issues/new?template=streaming_issue.yml)
-- Open a [Recording Issue](https://github.com/ArpanLevel/LiveLens/issues/new?template=recording_issue.yml)
-- Include bitrate, resolution, FPS, and internet speed details
+Found an issue or have an idea? We'd love to hear from you! Choose your issue type:
 
-### 🎤 Audio Issues?
-- Open an [Audio Issue](https://github.com/ArpanLevel/LiveLens/issues/new?template=audio_issue.yml)
-- Describe the audio problem and your audio settings
+### 🐛 **Bug Report**
+Check [FAQ](./FAQ.md) & [existing issues](https://github.com/ArpanLevel/LiveLens/issues) first, then [report here](https://github.com/ArpanLevel/LiveLens/issues/new?template=bug_report.yml)
+- Include: Device info, version, steps to reproduce, error logs
 
-### 👾 VTuber Issues?
-- Open a [VTuber Issue](https://github.com/ArpanLevel/LiveLens/issues/new?template=vtuber_issue.yml)
-- Include model format, Cubism version, and specific problem details
+### ✨ **Feature Request**  
+Browse [existing requests](https://github.com/ArpanLevel/LiveLens/issues?q=is%3Aissue+label%3Aenhancement) to avoid duplicates, then [request here](https://github.com/ArpanLevel/LiveLens/issues/new?template=feature_request.yml)
+- Describe: Feature, problem it solves, proposed solution
 
-## Developer
+### 🎬 **Streaming Issues**
+[Report Streaming Problem](https://github.com/ArpanLevel/LiveLens/issues/new?template=streaming_issue.yml)
+- Include: Bitrate, resolution, FPS, internet speed
 
-Created and maintained by **Arpan**.
+### 📹 **Recording Issues**
+[Report Recording Problem](https://github.com/ArpanLevel/LiveLens/issues/new?template=recording_issue.yml)
+- Include: Bitrate, resolution, FPS, device specs
 
-## License
+### 🎤 **Audio Issues**
+[Report Audio Problem](https://github.com/ArpanLevel/LiveLens/issues/new?template=audio_issue.yml)
+- Describe: Audio issue, settings used
 
-All rights reserved © LiveLens.
+### 👾 **VTuber Issues**
+[Report VTuber Problem](https://github.com/ArpanLevel/LiveLens/issues/new?template=vtuber_issue.yml)
+- Include: Model format, Cubism version, specific issue
+
+---
+
+## 👨‍💻 Developer
+
+**Created & Maintained by:** Arpan
+
+---
+
+## 📜 License
+
+```
+All rights reserved © LiveLens
 
 This project is not open-source.
+```
 
-<style>
-  @media (max-width: 768px) {
-    div[style*="overflow-x"] {
-      -webkit-overflow-scrolling: touch;
-      scroll-behavior: smooth;
-    }
-  }
-</style>
+---
+
+<div align="center">
+
+### Made with ❤️ for Creators Everywhere
+
+[Website](https://www.livelens.live/) • [Discord](https://discord.gg/kUqmbKhs6w) • [GitHub](https://github.com/ArpanLevel/LiveLens) • [Support](https://www.livelens.live/pages/contact.html)
+
+</div>
