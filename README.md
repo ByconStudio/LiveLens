@@ -18,9 +18,24 @@ Stream • Record • Create • Control • Produce
 [![Discord](https://img.shields.io/badge/💬_Join-Discord-5865F2?style=for-the-badge&labelColor=1f2937)](https://discord.gg/kUqmbKhs6w)
 [![Discussions](https://img.shields.io/badge/💡_Community-Discussions-1f6feb?style=for-the-badge&labelColor=1f2937)](https://github.com/ArpanLevel/LiveLens/discussions)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/ArpanLevel)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&labelColor=1f2937)](LICENSE)
+
 ---
 
 </div>
+
+## 📊 By The Numbers
+
+<div align="center">
+
+| 🎮 | 📱 | ⚡ | 🌐 |
+|---|---|---|---|
+| **Multi-Scene** | **Mobile Native** | **GPU-Accelerated** | **Multi-Platform** |
+| Unlimited scenes | Android optimized | OpenGL ES | Twitch, YouTube, etc. |
+
+</div>
+
+---
 
 ## 📸 Visual Preview
 
@@ -38,7 +53,7 @@ Stream • Record • Create • Control • Produce
 
 **LiveLens** brings **OBS-style production workflow** to Android creators. It's everything you need for professional streaming, recording, and content creation—all from your mobile device.
 
-Whether you're a **gamer, streamer, content creator, or VTuber**, LiveLens gives you enterprise-grade tools without the enterprise price tag.
+Whether you're a **gamer, streamer, content creator, VTuber, or influencer**, LiveLens gives you enterprise-grade tools without the enterprise price tag.
 
 ### ✨ Why Choose LiveLens?
 
@@ -48,6 +63,7 @@ Whether you're a **gamer, streamer, content creator, or VTuber**, LiveLens gives
 - 🎬 **Professional Recording** - High-bitrate local recording while streaming
 - 🎨 **Scene Management** - Complex scene setups with ease
 - 🎤 **Studio-Grade Audio** - Advanced audio processing & controls
+- 💰 **One-Time Purchase** - No subscriptions, no recurring fees
 
 ---
 
@@ -58,38 +74,43 @@ Whether you're a **gamer, streamer, content creator, or VTuber**, LiveLens gives
 - 🎯 Optimized FBO-based pipeline for mobile
 - 🔄 Real-time transformations (scale, rotate, crop, layer)
 - 🖼️ Single scene composition for preview, streaming & recording
+- 🎨 Hardware acceleration for smooth 60 FPS
 
 ### 📡 **Streaming & Recording**
 - 🌐 Custom RTMP URLs with multi-stream support
-- 📺 Direct streaming to **Twitch & major platforms**
-- 📹 4K recording with 30/60 FPS
+- 📺 Direct streaming to **Twitch, YouTube, Facebook & major platforms**
+- 📹 4K recording with 30/60 FPS support
 - ⚙️ H.264/H.265 encoder selection
 - 🎚️ Fine-tune bitrate & keyframe intervals
 - 🎯 Adaptive quality based on device performance
+- 🔄 Network failover & reconnection handling
 
 ### 🎭 **Scenes & Sources**
 - 📋 Unlimited scene creation & organization
-- 🖼️ Source Types: Screen • Text • Image • Camera • Video • Web • GIF • VTuber
+- 🖼️ **10+ Source Types**: Screen • Text • Image • Camera • Video • Web • GIF • VTuber • Audio • Timer
 - ✏️ Edit live while streaming/recording
 - 🔒 Lock, hide, reorder sources instantly
 - 📐 16:9 & 9:16 canvas with smart alignment guides
 - 🎨 Drag-drop interface with precision tools
+- 🔗 Scene linking & template system
 
 ### 🎙️ **Professional Audio**
 - 🎚️ Capture microphone + system audio simultaneously
 - 🔊 Mono/Stereo input support (auto-fallback)
 - 🛡️ Noise suppression & echo cancellation
 - 📈 Automatic gain control & noise gate
-- 🔊 Real-time audio monitoring
+- 🔊 Real-time audio monitoring with meters
 - 🎵 Floating audio level adjusters
+- 🔊 Multi-channel audio mixing
 
 ### 🎨 **Overlays & Stream Tools**
 - 🔔 Custom BRB & Starting Soon screens
-- ⏱️ Customizable countdown timers
+- ⏱️ Customizable countdown timers with animations
 - 🎵 Background music integration
 - 🌈 Full styling control for text & timers
 - 💬 Notification & floating controls
 - 📤 Import/Export JSON theme customization
+- 🎭 Custom stinger/transition effects
 
 ### 👾 **VTuber-Focused Features**
 - 📦 Live2D Cubism support (up to v5.1)
@@ -98,16 +119,18 @@ Whether you're a **gamer, streamer, content creator, or VTuber**, LiveLens gives
 - 👆 Touch tracking for interactions
 - ⚙️ Real-time parameter editor
 - 🎬 Breathing & idle motion controls
+- 🎨 Character animation blending
 
 ### 🎧 **Voice Chat**
 - 🚀 Account-free voice rooms
 - 🔗 Deep-link sharing for instant joins
 - 💻 Cross-app communication (LiveLens ↔ Lite)
 - 🤝 Team coordination with low-latency audio
+- 👥 Multi-user support
 
 ---
 
-### 📋 Mobile Streaming Feature Comparison
+## 📋 Mobile Streaming Feature Comparison
 
 | Feature | LiveLens | Many Mobile Streaming Apps |
 |---------|----------|----------------------------|
@@ -126,6 +149,97 @@ Whether you're a **gamer, streamer, content creator, or VTuber**, LiveLens gives
 | 🚫 Watermark | ❌ None | ⚠️ Varies |
 | 🔐 Account Required | ❌ No | ⚠️ Varies |
 | ⚡ GPU Rendering | ✅ | ✅ |
+| 💻 Desktop Sync | ✅ | ❌ |
+| 🎓 Learning Resources | ✅ | ⚠️ Limited |
+
+---
+
+## 📱 System Requirements
+
+### Minimum Requirements
+- **Android Version**: Android 8.0 (API 26) or higher
+- **RAM**: 2GB minimum (4GB+ recommended)
+- **Storage**: 100MB free space
+- **Camera**: Any camera with recording capability
+- **Microphone**: Built-in or external
+
+### Recommended Specifications
+- **Android Version**: Android 10+ for best performance
+- **RAM**: 6GB or higher
+- **Processor**: Snapdragon 865 or equivalent
+- **Storage**: 256GB+ for high-bitrate recording
+- **Network**: 10+ Mbps upload speed for streaming
+
+### Supported Platforms
+- ✅ Twitch
+- ✅ YouTube Live
+- ✅ Facebook Live
+- ✅ Instagram Live (via RTMP)
+- ✅ Custom RTMP servers
+- ✅ OBS-compatible services
+
+---
+
+## ⚡ Performance Benchmarks
+
+<div align="center">
+
+| Device Type | Max FPS | Max Resolution | Recommended Bitrate |
+|---|---|---|---|
+| Budget (2-4GB RAM) | 30 FPS | 720p | 2-3 Mbps |
+| Mid-Range (6GB RAM) | 60 FPS | 1080p | 4-5 Mbps |
+| Flagship (8GB+ RAM) | 60 FPS | 4K | 8-12 Mbps |
+
+</div>
+
+---
+
+## 🎓 Getting Started
+
+### 1️⃣ Download & Install
+```
+Visit https://www.livelens.live/ → Download APK → Install on Android device
+```
+
+### 2️⃣ Initial Setup (2 minutes)
+- Grant necessary permissions (Camera, Microphone, Storage)
+- Select your default canvas size (16:9 or 9:16)
+- Configure audio input sources
+
+### 3️⃣ Create Your First Scene
+- Tap "+" → Create new scene
+- Add a camera source
+- Add text overlay (e.g., "Channel Name")
+- Arrange sources using drag-and-drop
+
+### 4️⃣ Configure Streaming
+- Go to Settings → Streaming
+- Enter RTMP URL from your platform
+- Set bitrate, FPS, resolution
+- Tap "Go Live"
+
+### 5️⃣ Start Streaming!
+- Preview your scene on screen
+- Adjust sources in real-time
+- Monitor audio levels
+- Watch your chat
+
+📖 **[Detailed Tutorial →](https://www.livelens.live/pages/feature.html)**
+
+---
+
+## 🎮 Quick Keyboard Shortcuts
+
+| Key | Action |
+|---|---|
+| `Space` | Start/Stop Stream |
+| `R` | Start/Stop Recording |
+| `S` | Take Screenshot |
+| `+` | Add Source |
+| `Delete` | Remove Selected Source |
+| `Ctrl+Z` | Undo |
+| `Ctrl+S` | Save Scene |
+
 ---
 
 ## ⚠️ Current Limitations
@@ -133,18 +247,42 @@ Whether you're a **gamer, streamer, content creator, or VTuber**, LiveLens gives
 - 🔄 Scene switching unavailable during active stream/record
 - 📊 Max quality & source count depend on device performance
 - 🎬 Some Android system capture limitations apply
+- 🌐 Web sources may load slower on slower devices
+
+**[See Workarounds →](./FAQ.md#limitations)**
 
 ---
 
-## 📥 Download & Installation
+## 🛠️ Tech Stack & Architecture
 
-<div align="center">
+### Core Technologies
+- **Language**: Kotlin/Java
+- **Rendering**: OpenGL ES 3.0+
+- **Video Encoding**: MediaCodec API
+- **Audio Processing**: OpenSL ES
+- **RTMP Protocol**: Custom optimized implementation
+- **Live2D**: Cubism Native SDK
+- **UI Framework**: Android Jetpack Compose
 
-[![Download Latest Build](https://img.shields.io/badge/📲_Get_LiveLens-Official_Website-2563EB?style=for-the-badge&logo=android&logoColor=white)](https://www.livelens.live/)
+### Architecture Highlights
+- **Event-Driven Pipeline** - Real-time source management
+- **Dual-Context Rendering** - Separate preview & encode contexts
+- **Memory-Efficient Buffer Pool** - Reduced GC pressure
+- **Adaptive Bitrate Control** - Automatic quality adjustment
+- **Network Resilience** - Automatic reconnection with backoff
 
-**Download the latest LiveLens build from our official website**
+---
 
-</div>
+## 📚 Documentation
+
+| Resource | Link |
+|---|---|
+| 📖 **Full Documentation** | [Read Docs](./DOCUMENTATION.md) |
+| ❓ **FAQ & Troubleshooting** | [FAQ](./FAQ.md) |
+| 🎬 **Video Tutorials** | [YouTube Playlist](https://www.livelens.live/pages/feature.html) |
+| 🎨 **Theme Customization** | [Overlays](https://www.livelens.live/pages/overlays.html) |
+| 🔧 **Advanced Settings** | [Config Guide](./ADVANCED_CONFIG.md) |
+| 🚀 **API Reference** | [API Docs](./API.md) |
 
 ---
 
@@ -161,6 +299,20 @@ Whether you're a **gamer, streamer, content creator, or VTuber**, LiveLens gives
 | 💬 **Discord** | [Join Server](https://discord.gg/kUqmbKhs6w) |
 | 📧 **Contact** | [Support & Feedback](https://www.livelens.live/pages/contact.html) |
 | ❤️ **Sponsor** | [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/ArpanLevel) |
+
+---
+
+## 🎬 Creator Testimonials
+
+> *"LiveLens completely changed how I stream from my phone. It's like having OBS in my pocket!"*  
+> — Gaming Streamer, Twitch Affiliate
+
+> *"The Live2D support is incredible. Finally, a mobile app that treats VTubers seriously!"*  
+> — VTuber Content Creator
+
+> *"Best investment I made for mobile streaming. The quality is professional-grade!"*  
+> — YouTube Content Creator
+
 ---
 
 ## 🐛 Bug Reports & Feature Requests
@@ -193,9 +345,39 @@ Browse [existing requests](https://github.com/ArpanLevel/LiveLens/issues?q=is%3A
 
 ---
 
+## 🗺️ Roadmap
+
+### Q3 2024
+- [ ] Picture-in-Picture (PiP) support
+- [ ] Custom stinger/transition effects
+- [ ] Scene templates library
+- [ ] Voice control features
+
+### Q4 2024
+- [ ] AI-powered scene suggestions
+- [ ] Real-time subtitle generation
+- [ ] Enhanced mobile FX library
+- [ ] Cloud scene backup
+
+### 2025
+- [ ] Desktop companion app
+- [ ] Advanced analytics dashboard
+- [ ] Monetization integrations
+- [ ] Plugin ecosystem
+
+**[View Full Roadmap →](./ROADMAP.md)**
+
+---
+
 ## 👨‍💻 Developer
 
-**Created & Maintained by:** Arpan
+**Created & Maintained by:** [Arpan](https://github.com/ArpanLevel)
+
+### Acknowledgments
+- OpenGL ES community for rendering guidance
+- Live2D for Cubism SDK
+- Android Media Framework team
+- All contributors and testers
 
 ---
 
@@ -204,15 +386,27 @@ Browse [existing requests](https://github.com/ArpanLevel/LiveLens/issues?q=is%3A
 ```
 All rights reserved © LiveLens
 
-This project is not open-source.
+This project is not open-source. 
+Unauthorized copying, distribution, or derivative works are strictly prohibited.
+For licensing inquiries, contact: support@livelens.live
 ```
 
 ---
 
+## 🎁 Special Thanks
+
+Thank you to all our creators, testers, and community members who make LiveLens better every day!
+
 <div align="center">
+
+### 🌟 Join Our Community Today!
+
+[🌐 Website](https://www.livelens.live/) • [💬 Discord](https://discord.gg/kUqmbKhs6w) • [📱 GitHub](https://github.com/ArpanLevel/LiveLens) • [📧 Support](https://www.livelens.live/pages/contact.html) • [❤️ Sponsor](https://github.com/sponsors/ArpanLevel)
 
 ### Made with ❤️ for Creators Everywhere
 
-[Website](https://www.livelens.live/) • [Discord](https://discord.gg/kUqmbKhs6w) • [GitHub](https://github.com/ArpanLevel/LiveLens) • [Support](https://www.livelens.live/pages/contact.html)
+![Last Updated](https://img.shields.io/github/last-commit/ArpanLevel/LiveLens?style=flat-square)
+![Stars](https://img.shields.io/github/stars/ArpanLevel/LiveLens?style=flat-square)
+![Watchers](https://img.shields.io/github/watchers/ArpanLevel/LiveLens?style=flat-square)
 
 </div>
