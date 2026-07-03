@@ -22,7 +22,15 @@ Stream • Record • Create • Control • Produce
 
 ---
 
+<a href="https://www.livelens.live/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_Website-Get_APK_Now-FF6B6B?style=for-the-badge&logoColor=white" alt="Visit LiveLens Website">
+</a>
+
+### 📱 Android Only • Android 10+ Required
+
 </div>
+
+---
 
 ## 📊 By The Numbers
 
@@ -157,16 +165,16 @@ Whether you're a **gamer, streamer, content creator, VTuber, or influencer**, Li
 ## 📱 System Requirements
 
 ### Minimum Requirements
-- **Android Version**: Android 8.0 (API 26) or higher
-- **RAM**: 2GB minimum (4GB+ recommended)
+- **Android Version**: Android 10 or higher (Required)
+- **RAM**: 4GB minimum (6GB+ recommended)
 - **Storage**: 100MB free space
 - **Camera**: Any camera with recording capability
 - **Microphone**: Built-in or external
 
 ### Recommended Specifications
-- **Android Version**: Android 10+ for best performance
-- **RAM**: 6GB or higher
-- **Processor**: Snapdragon 865 or equivalent
+- **Android Version**: Android 12+
+- **RAM**: 8GB or higher
+- **Processor**: Snapdragon 888 or equivalent
 - **Storage**: 256GB+ for high-bitrate recording
 - **Network**: 10+ Mbps upload speed for streaming
 
@@ -178,6 +186,12 @@ Whether you're a **gamer, streamer, content creator, VTuber, or influencer**, Li
 - ✅ Custom RTMP servers
 - ✅ OBS-compatible services
 
+### ⚠️ Platform Availability
+- 📱 **Android Only** - Full support for Android 10+
+- 🚫 **iOS** - Not available
+- 🚫 **Windows/Mac** - Not available
+- 🚫 **Web** - Not available
+
 ---
 
 ## ⚡ Performance Benchmarks
@@ -186,9 +200,9 @@ Whether you're a **gamer, streamer, content creator, VTuber, or influencer**, Li
 
 | Device Type | Max FPS | Max Resolution | Recommended Bitrate |
 |---|---|---|---|
-| Budget (2-4GB RAM) | 30 FPS | 720p | 2-3 Mbps |
-| Mid-Range (6GB RAM) | 60 FPS | 1080p | 4-5 Mbps |
-| Flagship (8GB+ RAM) | 60 FPS | 4K | 8-12 Mbps |
+| Mid-Range (4-6GB RAM) | 30 FPS | 720p | 2-3 Mbps |
+| High-End (8GB RAM) | 60 FPS | 1080p | 4-5 Mbps |
+| Flagship (12GB+ RAM) | 60 FPS | 4K | 8-12 Mbps |
 
 </div>
 
@@ -225,20 +239,6 @@ Visit https://www.livelens.live/ → Download APK → Install on Android device
 - Watch your chat
 
 📖 **[Detailed Tutorial →](https://www.livelens.live/pages/feature.html)**
-
----
-
-## 🎮 Quick Keyboard Shortcuts
-
-| Key | Action |
-|---|---|
-| `Space` | Start/Stop Stream |
-| `R` | Start/Stop Recording |
-| `S` | Take Screenshot |
-| `+` | Add Source |
-| `Delete` | Remove Selected Source |
-| `Ctrl+Z` | Undo |
-| `Ctrl+S` | Save Scene |
 
 ---
 
@@ -342,30 +342,6 @@ Browse [existing requests](https://github.com/ArpanLevel/LiveLens/issues?q=is%3A
 ### 👾 **VTuber Issues**
 [Report VTuber Problem](https://github.com/ArpanLevel/LiveLens/issues/new?template=vtuber_issue.yml)
 - Include: Model format, Cubism version, specific issue
-
----
-
-## 🗺️ Roadmap
-
-### Q3 2024
-- [ ] Picture-in-Picture (PiP) support
-- [ ] Custom stinger/transition effects
-- [ ] Scene templates library
-- [ ] Voice control features
-
-### Q4 2024
-- [ ] AI-powered scene suggestions
-- [ ] Real-time subtitle generation
-- [ ] Enhanced mobile FX library
-- [ ] Cloud scene backup
-
-### 2025
-- [ ] Desktop companion app
-- [ ] Advanced analytics dashboard
-- [ ] Monetization integrations
-- [ ] Plugin ecosystem
-
-**[View Full Roadmap →](./ROADMAP.md)**
 
 ---
 
