@@ -14,10 +14,10 @@ Stream • Record • Create • Control • Produce
 
 [![Download](https://img.shields.io/badge/📲_Download-LiveLens-2563EB?style=for-the-badge&labelColor=1f2937)](https://www.livelens.live/)
 [![Features](https://img.shields.io/badge/✨_Explore-All_Features-7C3AED?style=for-the-badge&labelColor=1f2937)](https://www.livelens.live/pages/feature.html)
-[![Star us on GitHub](https://img.shields.io/github/stars/ArpanLevel/LiveLens?style=for-the-badge&logo=github&labelColor=1f2937&color=FFD700)](https://github.com/ArpanLevel/LiveLens/stargazers)
+[![Star us on GitHub](https://img.shields.io/github/stars/ByconStudio/LiveLens?style=for-the-badge&logo=github&labelColor=1f2937&color=FFD700)](https://github.com/ByconStudio/LiveLens/stargazers)
 [![Discord](https://img.shields.io/badge/💬_Join-Discord-5865F2?style=for-the-badge&labelColor=1f2937)](https://discord.gg/kUqmbKhs6w)
-[![Discussions](https://img.shields.io/badge/💡_Community-Discussions-1f6feb?style=for-the-badge&labelColor=1f2937)](https://github.com/ArpanLevel/LiveLens/discussions)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/ArpanLevel)
+[![Discussions](https://img.shields.io/badge/💡_Community-Discussions-1f6feb?style=for-the-badge&labelColor=1f2937)](https://github.com/ByconStudio/LiveLens/discussions)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/ByconStudio)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge&labelColor=1f2937)](LICENSE)
 
 ---
@@ -309,7 +309,7 @@ Visit [livelens.live](https://www.livelens.live/) → Download APK → Install o
 
 | 📖 Resources |  |
 |-------------|---|
-| 💬 **Community Chat** | [GitHub Discussions](https://github.com/ArpanLevel/LiveLens/discussions) |
+| 💬 **Community Chat** | [GitHub Discussions](https://github.com/ByconStudio/LiveLens/discussions) |
 | ❓ **FAQ & Help** | [Frequently Asked Questions](./FAQ.md) |
 | 🌐 **Official Website** | [livelens.live](https://www.livelens.live/) |
 | ✨ **All Features** | [Feature Showcase](https://www.livelens.live/pages/feature.html) |
@@ -317,7 +317,7 @@ Visit [livelens.live](https://www.livelens.live/) → Download APK → Install o
 | 🎤 **Voice** | [Voice Chat Demo](https://www.livelens.live/voice/voice.html) |
 | 💬 **Discord** | [Join Server](https://discord.gg/kUqmbKhs6w) |
 | 📧 **Contact** | [Support & Feedback](https://www.livelens.live/pages/contact.html) |
-| ❤️ **Sponsor** | [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/ArpanLevel) |
+| ❤️ **Sponsor** | [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/ByconStudio) |
 
 ---
 
@@ -339,34 +339,34 @@ Visit [livelens.live](https://www.livelens.live/) → Download APK → Install o
 Found an issue or have an idea? We'd love to hear from you! Choose your issue type:
 
 ### 🐛 **Bug Report**
-Check [FAQ](./FAQ.md) & [existing issues](https://github.com/ArpanLevel/LiveLens/issues) first, then [report here](https://github.com/ArpanLevel/LiveLens/issues/new?template=bug_report.yml)
+Check [FAQ](./FAQ.md) & [existing issues](https://github.com/ByconStudio/LiveLens/issues) first, then [report here](https://github.com/ByconStudio/LiveLens/issues/new?template=bug_report.yml)
 - Include: Device info, version, steps to reproduce, error logs
 
 ### ✨ **Feature Request**  
-Browse [existing requests](https://github.com/ArpanLevel/LiveLens/issues?q=is%3Aissue+label%3Aenhancement) to avoid duplicates, then [request here](https://github.com/ArpanLevel/LiveLens/issues/new?template=feature_request.yml)
+Browse [existing requests](https://github.com/ByconStudio/LiveLens/issues?q=is%3Aissue+label%3Aenhancement) to avoid duplicates, then [request here](https://github.com/ByconStudio/LiveLens/issues/new?template=feature_request.yml)
 - Describe: Feature, problem it solves, proposed solution
 
 ### 🎬 **Streaming Issues**
-[Report Streaming Problem](https://github.com/ArpanLevel/LiveLens/issues/new?template=streaming_issue.yml)
+[Report Streaming Problem](https://github.com/ByconStudio/LiveLens/issues/new?template=streaming_issue.yml)
 - Include: Bitrate, resolution, FPS, internet speed
 
 ### 📹 **Recording Issues**
-[Report Recording Problem](https://github.com/ArpanLevel/LiveLens/issues/new?template=recording_issue.yml)
+[Report Recording Problem](https://github.com/ByconStudio/LiveLens/issues/new?template=recording_issue.yml)
 - Include: Bitrate, resolution, FPS, device specs
 
 ### 🎤 **Audio Issues**
-[Report Audio Problem](https://github.com/ArpanLevel/LiveLens/issues/new?template=audio_issue.yml)
+[Report Audio Problem](https://github.com/ByconStudio/LiveLens/issues/new?template=audio_issue.yml)
 - Describe: Audio issue, settings used
 
 ### 👾 **VTuber Issues**
-[Report VTuber Problem](https://github.com/ArpanLevel/LiveLens/issues/new?template=vtuber_issue.yml)
+[Report VTuber Problem](https://github.com/ByconStudio/LiveLens/issues/new?template=vtuber_issue.yml)
 - Include: Model format, Cubism version, specific issue
 
 ---
 
 ## 👨‍💻 Developer
 
-**Created & Maintained by:** [Arpan](https://github.com/ArpanLevel)
+**Created & Maintained by:** [ByconStudio](https://github.com/ByconStudio)
 
 ### Acknowledgments
 - OpenGL ES community for rendering guidance
@@ -396,12 +396,12 @@ Thank you to all our creators, testers, and community members who make LiveLens 
 
 ### 🌟 Join Our Community Today!
 
-[🌐 Website](https://www.livelens.live/) • [💬 Discord](https://discord.gg/kUqmbKhs6w) • [📱 GitHub](https://github.com/ArpanLevel/LiveLens) • [📧 Support](https://www.livelens.live/pages/contact.html) • [❤️ Sponsor](https://github.com/sponsors/ArpanLevel)
+[🌐 Website](https://www.livelens.live/) • [💬 Discord](https://discord.gg/kUqmbKhs6w) • [📱 GitHub](https://github.com/ByconStudio/LiveLens) • [📧 Support](https://www.livelens.live/pages/contact.html)
 
 ### Made with ❤️ for Creators Everywhere
 
-![Last Updated](https://img.shields.io/github/last-commit/ArpanLevel/LiveLens?style=flat-square)
-![Stars](https://img.shields.io/github/stars/ArpanLevel/LiveLens?style=flat-square)
-![Watchers](https://img.shields.io/github/watchers/ArpanLevel/LiveLens?style=flat-square)
+![Last Updated](https://img.shields.io/github/last-commit/ByconStudio/LiveLens?style=flat-square)
+![Stars](https://img.shields.io/github/stars/ByconStudio/LiveLens?style=flat-square)
+![Watchers](https://img.shields.io/github/watchers/ByconStudio/LiveLens?style=flat-square)
 
 </div>
