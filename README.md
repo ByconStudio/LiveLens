@@ -17,7 +17,7 @@ Stream • Record • Create • Control • Produce
 [![Star us on GitHub](https://img.shields.io/github/stars/ArpanLevel/LiveLens?style=for-the-badge&logo=github&labelColor=1f2937&color=FFD700)](https://github.com/ArpanLevel/LiveLens/stargazers)
 [![Discord](https://img.shields.io/badge/💬_Join-Discord-5865F2?style=for-the-badge&labelColor=1f2937)](https://discord.gg/kUqmbKhs6w)
 [![Discussions](https://img.shields.io/badge/💡_Community-Discussions-1f6feb?style=for-the-badge&labelColor=1f2937)](https://github.com/ArpanLevel/LiveLens/discussions)
-
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/ArpanLevel)
 ---
 
 </div>
@@ -160,7 +160,7 @@ Whether you're a **gamer, streamer, content creator, or VTuber**, LiveLens gives
 | 🎤 **Voice** | [Voice Chat Demo](https://www.livelens.live/voice/voice.html) |
 | 💬 **Discord** | [Join Server](https://discord.gg/kUqmbKhs6w) |
 | 📧 **Contact** | [Support & Feedback](https://www.livelens.live/pages/contact.html) |
-
+| ❤️ **Sponsor** | [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=github)](https://github.com/sponsors/ArpanLevel) |
 ---
 
 ## 🐛 Bug Reports & Feature Requests
