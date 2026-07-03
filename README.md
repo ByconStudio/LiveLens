@@ -208,12 +208,31 @@ Whether you're a **gamer, streamer, content creator, VTuber, or influencer**, Li
 
 ---
 
+## 📥 Download & Installation
+
+<div align="center">
+
+<a href="https://www.livelens.live/" target="_blank">
+  <img src="https://img.shields.io/badge/📲_Download_APK-Get_Started_Now-2563EB?style=for-the-badge&logo=android&logoColor=white" alt="Download LiveLens APK">
+</a>
+
+**[Visit LiveLens.live](https://www.livelens.live/) to download the latest APK**
+
+</div>
+
+### Installation Steps:
+1. Visit https://www.livelens.live/
+2. Download the APK file
+3. Go to Settings → Security → Enable "Unknown Sources"
+4. Install the APK file
+5. Launch LiveLens and grant required permissions
+
+---
+
 ## 🎓 Getting Started
 
 ### 1️⃣ Download & Install
-```
-Visit https://www.livelens.live/ → Download APK → Install on Android device
-```
+Visit [livelens.live](https://www.livelens.live/) → Download APK → Install on Android device
 
 ### 2️⃣ Initial Setup (2 minutes)
 - Grant necessary permissions (Camera, Microphone, Storage)
