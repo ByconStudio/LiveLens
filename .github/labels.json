@@ -1,0 +1,102 @@
+[
+  {
+    "name": "🎬 streaming",
+    "color": "FF6B6B",
+    "description": "Issues related to live streaming functionality, RTMP, multi-platform support"
+  },
+  {
+    "name": "📹 recording",
+    "color": "FF9F1C",
+    "description": "Issues related to video recording, bitrate, codecs, file formats"
+  },
+  {
+    "name": "🎙️ audio",
+    "color": "9D84B7",
+    "description": "Issues related to audio processing, microphone, noise suppression, mixing"
+  },
+  {
+    "name": "🎨 rendering",
+    "color": "06D6A0",
+    "description": "Issues related to GPU rendering, OpenGL ES, scene composition, performance"
+  },
+  {
+    "name": "👾 vtuber",
+    "color": "A23B72",
+    "description": "Issues related to Live2D Cubism support, VTuber features, animations"
+  },
+  {
+    "name": "🎭 scenes",
+    "color": "FFB703",
+    "description": "Issues related to scene management, sources, templates, organization"
+  },
+  {
+    "name": "⚡ performance",
+    "color": "FB5607",
+    "description": "Issues related to FPS, optimization, memory usage, battery drain, adaptive quality"
+  },
+  {
+    "name": "🔊 voice-chat",
+    "color": "8ECAE6",
+    "description": "Issues related to voice chat, audio rooms, cross-app communication"
+  },
+  {
+    "name": "📱 android",
+    "color": "3DDC84",
+    "description": "Android-specific issues, API compatibility, device support, permissions"
+  },
+  {
+    "name": "🐛 bug",
+    "color": "D62828",
+    "description": "Something is broken or not working as expected"
+  },
+  {
+    "name": "✨ enhancement",
+    "color": "2A9D8F",
+    "description": "New feature or request for improvement"
+  },
+  {
+    "name": "📚 documentation",
+    "color": "264653",
+    "description": "Documentation, guides, tutorials, examples needed or improvements"
+  },
+  {
+    "name": "🚀 ui/ux",
+    "color": "E76F51",
+    "description": "User interface, user experience, design improvements"
+  },
+  {
+    "name": "🔧 settings",
+    "color": "4ECDC4",
+    "description": "Issues related to settings, configuration, preferences"
+  },
+  {
+    "name": "🌐 rtmp",
+    "color": "667BC6",
+    "description": "Issues related to RTMP protocol, streaming servers, network"
+  },
+  {
+    "name": "📊 analytics",
+    "color": "95B8D1",
+    "description": "Statistics, metrics, performance monitoring, debugging info"
+  },
+  {
+    "name": "🎓 beginner-friendly",
+    "color": "B6D7A8",
+    "description": "Good for contributors new to the project"
+  },
+  {
+    "name": "❓ question",
+    "color": "CCE5FF",
+    "description": "Questions or need help (consider using discussions instead)"
+  },
+  {
+    "name": "⏱️ priority-high",
+    "color": "C22E2E",
+    "description": "High priority - needs urgent attention"
+  },
+  {
+    "name": "📋 priority-medium",
+    "color": "F8B88B",
+    "description": "Medium priority - should be addressed soon"
+  }
+]
