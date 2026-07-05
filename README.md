@@ -272,6 +272,16 @@ Visit [livelens.live](https://www.livelens.live/) → Download APK → Install o
 
 ---
 
+## 💰 Monetization Model
+
+**LiveLens is completely free to use with no ads, subscriptions, or watermarks!**
+
+We believe creators should focus on creating content, not removing artificial restrictions. Our project is supported through sponsorships, allowing us to keep the experience clean and accessible for everyone.
+
+📖 **[Learn more about our monetization philosophy →](./MONETIZATION.md)**
+
+---
+
 ## 🛠️ Tech Stack & Architecture
 
 ### Core Technologies
@@ -298,6 +308,7 @@ Visit [livelens.live](https://www.livelens.live/) → Download APK → Install o
 |---|---|
 | 📖 **Full Documentation** | [Read Docs](./DOCUMENTATION.md) |
 | ❓ **FAQ & Troubleshooting** | [FAQ](./FAQ.md) |
+| 💰 **Monetization Model** | [Business Model](./MONETIZATION.md) |
 | 🎬 **Video Tutorials** | [YouTube Playlist](https://www.livelens.live/pages/feature.html) |
 | 🎨 **Theme Customization** | [Overlays](https://www.livelens.live/pages/overlays.html) |
 | 🔧 **Advanced Settings** | [Config Guide](./ADVANCED_CONFIG.md) |
