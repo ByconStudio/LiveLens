@@ -49,7 +49,7 @@ Stream • Record • Create • Control • Produce
 
 <div align="center">
 
-![LiveLens Preview Grid](https://pub-d377e2a167cf4f70b6062f46e7e9830d.r2.dev/ezgif-23de9c8401c045c8.gif)
+![LiveLens Preview Grid](https://pub-94c38fc644f94737b41d832ef8c28371.r2.dev/Screenshot/Screenshot.gif)
 
 **Desktop-Class Production on Mobile** → Scroll to explore all features
 
