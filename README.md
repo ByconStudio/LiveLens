@@ -49,7 +49,7 @@ Stream • Record • Create • Control • Produce
 
 <div align="center">
 
-![LiveLens Preview Grid](https://pub-94c38fc644f94737b41d832ef8c28371.r2.dev/Screenshot/Screenshot.gif)
+![LiveLens Preview Grid](https://pub-94c38fc644f94737b41d832ef8c28371.r2.dev/Screenshot/screenshot.gif)
 
 **Desktop-Class Production on Mobile** → Scroll to explore all features
 
@@ -67,9 +67,9 @@ Whether you're a **gamer, streamer, content creator, VTuber, or influencer**, Li
 
 - 🎮 **PC-Quality Control** - OBS-like interface on Android
 - 🔒 **Privacy First** - No mandatory accounts, no forced watermarks, no ads
-- 🚀 **Multi-Stream Ready** - Stream to multiple platforms simultaneously  
+- 🚀 **Multi-Stream Ready** - Stream to multiple platforms simultaneously
 - 🎬 **Professional Recording** - High-bitrate local recording while streaming
-- 🎨 **Scene Management** - Complex scene setups with ease
+- 🎬 **Scene Management** - Complex scene setups with live switching support
 - 🎤 **Studio-Grade Audio** - Advanced audio processing & controls
 - 💰 **No One-Time Purchase** - No subscriptions, no recurring fees
 
@@ -95,7 +95,7 @@ Whether you're a **gamer, streamer, content creator, VTuber, or influencer**, Li
 
 ### 🎭 **Scenes & Sources**
 - 📋 Unlimited scene creation & organization
-- 🖼️ **10 Source Types**: Screen • Text • Image • Camera • Video • Web • GIF • VTuber • UVC Beta • ChatBox
+- 🖼️ **11 Source Types**: Screen • Text • Image • Camera • Video • Web • GIF • VTuber • UVC Beta • ChatBox • Sound
 - ✏️ Edit live while streaming/recording
 - 🔒 Lock, hide, reorder sources instantly
 - 📐 16:9 & 9:16 canvas with smart alignment guides
@@ -117,11 +117,11 @@ Whether you're a **gamer, streamer, content creator, VTuber, or influencer**, Li
 - 🎵 Background music integration
 - 🌈 Full styling control for text & timers
 - 💬 Notification & floating controls
-- 📤 Import/Export JSON theme customization
+- 📤 Import/Export JSON scene configurations
 - 🎭 Custom stinger/transition effects
 
 ### 👾 **VTuber-Focused Features**
-- 📦 Live2D Cubism support (up to v5.1)
+- 📦 Live2D Cubism support (up to v5.1 natively, 5.3+ via compatibility mode)
 - 🎤 Real-time microphone lip-sync
 - 🎭 Physics simulation & expressions
 - 👆 Touch tracking for interactions
@@ -263,56 +263,23 @@ Visit [livelens.live](https://www.livelens.live/) → Download APK → Install o
 
 ## ⚠️ Current Limitations
 
-- 🔄 Scene switching unavailable during active stream/record
 - 📊 Max quality & source count depend on device performance
 - 🎬 Some Android system capture limitations apply
 - 🌐 Web sources may load slower on slower devices
 
-**[See Workarounds →](./FAQ.md#limitations)**
-
 ---
 
-## 💰 Monetization Model
+## 📚 Documentation & Help Hub
 
-**LiveLens is completely free to use with no ads, subscriptions, or watermarks!**
-
-We believe creators should focus on creating content, not removing artificial restrictions. Our project is supported through sponsorships, allowing us to keep the experience clean and accessible for everyone.
-
-📖 **[Learn more about our monetization philosophy →](./MONETIZATION.md)**
-
----
-
-## 🛠️ Tech Stack & Architecture
-
-### Core Technologies
-- **Language**: Kotlin/Java
-- **Rendering**: OpenGL ES 3.0+
-- **Video Encoding**: MediaCodec API
-- **Audio Processing**: OpenSL ES
-- **RTMP Protocol**: Custom optimized implementation
-- **Live2D**: Cubism Native SDK
-- **UI Framework**: Android Jetpack Compose
-
-### Architecture Highlights
-- **Event-Driven Pipeline** - Real-time source management
-- **Dual-Context Rendering** - Separate preview & encode contexts
-- **Memory-Efficient Buffer Pool** - Reduced GC pressure
-- **Adaptive Bitrate Control** - Automatic quality adjustment
-- **Network Resilience** - Automatic reconnection with backoff
-
----
-
-## 📚 Documentation
+We've recently launched a professional **Documentation Hub** on our official website! It includes 45+ detailed guides covering every feature of LiveLens.
 
 | Resource | Link |
 |---|---|
-| 📖 **Full Documentation** | [Read Docs](./DOCUMENTATION.md) |
-| ❓ **FAQ & Troubleshooting** | [FAQ](./FAQ.md) |
-| 💰 **Monetization Model** | [Business Model](./MONETIZATION.md) |
-| 🎬 **Video Tutorials** | [YouTube Playlist](https://www.livelens.live/pages/feature.html) |
-| 🎨 **Theme Customization** | [Overlays](https://www.livelens.live/pages/overlays.html) |
-| 🔧 **Advanced Settings** | [Config Guide](./ADVANCED_CONFIG.md) |
-| 🚀 **API Reference** | [API Docs](./API.md) |
+| 📖 **Official Documentation Hub** | [livelens.live/pages/docs.html](https://www.livelens.live/pages/docs.html) |
+| ❓ **FAQ & Troubleshooting** | [View FAQ Hub](https://www.livelens.live/pages/docs.html#FAQ) |
+| 🛠️ **Settings Guides** | [Explore Settings Docs](https://www.livelens.live/pages/docs.html#settings-video) |
+| 🎮 **Source Capabilities** | [Learn About Sources](https://www.livelens.live/pages/docs.html#sources-sources) |
+| 🎬 **Tutorial Videos** | [YouTube Channel](https://youtube.com/@gamevarsex) |
 
 ---
 
@@ -353,7 +320,7 @@ Found an issue or have an idea? We'd love to hear from you! Choose your issue ty
 Check [FAQ](./FAQ.md) & [existing issues](https://github.com/ByconStudio/LiveLens/issues) first, then [report here](https://github.com/ByconStudio/LiveLens/issues/new?template=bug_report.yml)
 - Include: Device info, version, steps to reproduce, error logs
 
-### ✨ **Feature Request**  
+### ✨ **Feature Request**
 Browse [existing requests](https://github.com/ByconStudio/LiveLens/issues?q=is%3Aissue+label%3Aenhancement) to avoid duplicates, then [request here](https://github.com/ByconStudio/LiveLens/issues/new?template=feature_request.yml)
 - Describe: Feature, problem it solves, proposed solution
 
