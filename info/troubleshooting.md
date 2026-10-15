@@ -23,7 +23,7 @@ This guide helps you resolve common issues encountered while using LiveLens. Mos
 
 ### Why can't my viewers hear my game audio?
 - **Android Restriction**: Some games (like Call of Duty or PUBG) might block 3rd-party apps from recording internal audio.
-- **Fix**: Ensure "Mute Internal Audio" is OFF in Audio Settings. On some Android versions, you must use a high-quality headset for the system to allow internal capture.
+- **Fix**: Ensure "Mute Internal Audio" is OFF in **Global Settings** → **Audio**. On some Android versions, you must use a high-quality headset for the system to allow internal capture.
 
 ### My voice sounds metallic or has an echo.
 - **Echo**: This happens if your speakers are too loud and the mic picks up the output. **Always use headphones** when streaming.
@@ -34,16 +34,16 @@ This guide helps you resolve common issues encountered while using LiveLens. Mos
 ## ⚡ Performance & Lag
 
 ### The app is lagging or dropping frames.
-1. **Tier Check**: Your device might be overloaded. Refer to [Performance Tiers](./performance_limits.md).
+1. **Tier Check**: Your device might be overloaded. Refer to [CPU Compatibility](./cpu_info.md) and [Performance Tiers](./performance_limits.md).
 2. **Fixes**:
     - Lower your **Bitrate** to 3500 kbps.
     - Change **Resolution** to 720p 30fps.
     - Reduce the number of active sources (especially Web and VTuber).
-    - Enable **Adaptive Bitrate (ABR)** in Streaming settings.
+    - Enable **Adaptive Bitrate (ABR)** in **Global Settings** → **Streaming**.
 
-### Why can't I switch scenes while streaming?
-- **Safety Lock**: Scene switching is disabled while the encoder is active to prevent app crashes. 
-- **Solution**: Use the **BRB** or **Starting Soon** overlays in the floating bubble instead.
+### How do I switch scenes while streaming?
+- **Seamless Switching**: You can switch scenes directly from the Scene Manager or use the **Pinned Scenes** feature in the **Floating Panel** for quick transitions during gameplay.
+- **Note**: Ensure your scenes use the same canvas resolution for the best experience.
 
 ---
 
@@ -61,7 +61,7 @@ This guide helps you resolve common issues encountered while using LiveLens. Mos
 
 ## 🛠️ Still having issues?
 
-1. **Reset Settings**: Use "Reset to Performance Defaults" in Video Settings.
+1. **Reset Settings**: Use **"Reset to Performance Defaults"** in **Global Settings** → **Streaming** (or Video).
 2. **Report Issue**: Tap the **"Send Feedback"** button in Settings -> Privacy or use the **"Report Issue"** button inside the UVC source.
 3. **Join Discord**: Get real-time help from Arpan and the community: [Join LiveLens Discord](https://discord.gg/kUqmbKhs6w).
 

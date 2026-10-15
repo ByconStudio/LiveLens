@@ -54,14 +54,19 @@ Instead of fixing every file one by one:
 - **Ignore**: If you don't need a missing asset right now, you can select "Ignore". LiveLens will stop showing warnings for that specific file.
 - **Cleanup**: You can choose to permanently remove references to missing assets to keep your scene configuration clean.
 
+For a deep dive into how to recover your scene, see [Missing Assets & Smart Relink](missing_assets.md).
+
 ---
 
-## 🔒 Scene Switching During Stream
+## 🔄 Scene Switching During Stream
 
-**Important**: Scene switching is **locked** while an active stream or recording is running.
+**Supported**: You can now switch scenes while an active stream or recording is running.
 
-- **Why?** Different scenes can have different aspect ratios, resolutions, or frame rates. Changing these while the video encoder is "hot" can cause the encoder to crash or result in a severe stream lag.
-- **Solution**: Use the **Starting Soon** or **BRB** overlays (configured in **Settings → Overlay**) if you need to hide your main content during a live session without switching the entire scene engine.
+- **Smooth Transitions**: Switching scenes allows you to change your entire layout (e.g., from "Gameplay" to "Just Chatting") without stopping your broadcast.
+- **How to Switch**:
+    - **In-App**: Open the Scene Manager and tap the scene you want to load.
+    - **Floating Panel**: Use **Pinned Scenes** in the floating dashboard to switch scenes without leaving your game.
+- **Best Practice**: To ensure the best quality, make sure all your scenes use the same canvas resolution (e.g., all 1080p).
 
 ---
 
@@ -73,13 +78,12 @@ Instead of fixing every file one by one:
 | Smart Relink | Fixes all missing images/videos in a single step |
 | Import/Export | Share and backup layouts as `.json` files |
 | Default Scene | A permanent safety scene that cannot be deleted |
-| Switch Lock | Prevents crashes by disabling switching during active streams |
+| Scene Switching | Fully supported during active streaming and recording |
 
 ---
 
 ## Related Documentation
 
-- [Missing Assets](missing_assets.md)
 - [Sources](../sources/sources.md)
 - [Overlay Settings](../settings/overlay.md)
 - [Performance Tips](../troubleshooting/performance.md)

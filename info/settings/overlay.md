@@ -2,49 +2,66 @@
 
 ## Overview
 
-The **Overlay Settings** allow you to add professional touch-points to your stream, such as intro screens, "Be Right Back" (BRB) scenes, and a floating control bubble to manage your stream without leaving your game.
+The **Overlay Settings** allow you to add professional visual touch-points to your stream, such as intro screens, "Be Right Back" (BRB) scenes, and a highly customizable cooldown timer. These elements help maintain audience engagement during breaks or before your stream officially starts.
 
 ---
 
 ## 🎭 Stream Assets (BRB & Starting Soon)
 
-Since normal scene switching is locked during an active stream, LiveLens provides dedicated **Asset Overlays** to hide your main content when needed.
+While you can switch scenes at any time, LiveLens also provides dedicated **Asset Overlays** (like BRB and Starting Soon) for quick visual changes without switching your entire scene layout. These are accessible via the **Settings → Overlay Settings** or directly from the Floating Control panel.
 
 ### 1. BRB (Be Right Back)
 Show a custom image or GIF when you need to take a quick break.
-- **GIF Limits**: Max 10MB, 1080p resolution.
-- **Mixer Toggles**: You can choose to automatically **Mute Microphone** or **Mute Internal Audio** whenever the BRB screen is active.
+- **Mixer Toggles**:
+    - **Mute Mic**: Automatically mutes your microphone when the BRB screen is active.
+    - **Mute Internal**: Automatically mutes game/app audio when the BRB screen is active.
+- **Visuals**: Supports static images and animated GIFs.
 
 ### 2. Starting Soon
-A perfect way to warm up your audience before the action starts.
-- **GIF Limits**: Max 10MB, 1080p resolution.
-- **Auto-Activate on Start**: If enabled, LiveLens will automatically show this screen as soon as you press the "Go Live" button, giving you a few moments to prepare.
+A professional intro screen to warm up your audience.
+- **Auto-Activate on Start**: If enabled, this screen automatically appears as soon as you press "Go Live," giving you a few moments to prepare.
+    - *Note: This option is only available if the "Soon" button is enabled in Floating Control settings.*
+- **Mixer Toggles**: Independent "Mute Mic" and "Mute Internal" options, similar to the BRB asset.
+
+### 🛠️ Managing Assets
+You can easily add, change, or remove your stream assets directly within the settings cards:
+
+- **Add/Change Asset**: Tap on the **Preview Box** (showing an "Add" icon or the current image/GIF) to open your device's gallery. Selecting a new file will automatically replace the existing one.
+- **Delete Asset**: Once an image or GIF is loaded, a **Red Trash Icon** will appear at the top-right corner of the asset card. Tapping this will instantly remove the asset and restore the default state.
+
+### 📐 Asset Requirements & Validation
+To ensure stream stability and performance, LiveLens enforces the following limits for GIFs:
+- **Max Size**: 10 MB.
+- **Max Resolution**: 1080p (maximum dimension of 1920px).
+- **Format**: `.gif` and common image formats (PNG, JPG).
 
 ---
 
-## 🫧 Interaction Controls
+## ⏳ Cooldown Timer Overlay
+The **Cooldown Timer** is a professional widget that can be layered over your BRB or Starting Soon screens. It is perfect for "Stream Starting in X minutes" or "Break ending in X:XX" scenarios.
 
-Manage your stream with ease using these secondary UI tools.
+### 1. Basic Configuration
+- **Enable Timer**: Toggle the timer on or off.
+- **Duration**: Set the countdown duration in **minutes**.
+- **Visibility**: 
+    - **Show in BRB**: Render the timer specifically over your BRB asset.
+    - **Show in Starting Soon**: Render the timer specifically over your Starting Soon asset.
 
-### Floating Control Bubble
-A movable icon that stays on top of other apps.
-- **Quick Access**: Tap the bubble to open a mini-dashboard where you can start/stop stream, toggle mic, or switch between BRB/Soon assets.
-- **Smart Chat**: Enabling the bubble automatically prepares the **Live Chat** overlay for quick viewing.
-- **Customization**: You can change the bubble's icon and background image in the settings.
+### 2. Interactive Positioning & Scale
+LiveLens features a dedicated **Positioning Popup** that allows you to:
+- **Visual Drag & Drop**: Interact with a simulated canvas to drag the timer to your desired position.
+- **Interactive Scaling**: Use a slider to adjust the timer size from **0.5x to 4.0x**.
+- **Preview Toggling**: Switch between BRB and Starting Soon previews to set independent positions for each screen.
 
-### Notification Bar Controls
-Adds "Start", "Stop", and "Mute" buttons directly into your Android notification shade. 
-- *Note: This is a great alternative if you don't want a bubble covering your game UI.*
+### 3. Style & Customization
+- **Custom Fonts**: Use `.ttf` or `.otf` files from your device to match your stream's branding.
+- **Color Selection**: Input precise **Hex codes** (e.g., #00E5FF) with a real-time color preview circle.
+- **Animation Effects**: Choose from professional transitions including:
+    - **FADE, POP, SLIDE_UP, GLITCH, FLIP, and ROTATE**.
+- **Animation Speed**: Customize the effect duration in milliseconds.
 
-### Home Screen FPS
-Shows a real-time **FPS (Frames Per Second)** counter on the LiveLens home screen to help you monitor performance before you go live.
-
----
-
-## ⏳ Timer Overlay
-Configure a countdown or count-up timer that appears on your stream.
-- **Custom Fonts**: Just like the Text Source, you can use `.ttf` files to style your timer.
-- **Usage**: Perfect for "Stream Starting in X minutes" or speedrunning challenges.
+### 4. Smart Automation
+- **Auto-Off Assets**: When enabled, LiveLens will **automatically hide** the active BRB or Starting Soon screen once the timer reaches zero. This allows for a seamless transition directly into your live gameplay or content.
 
 ---
 
@@ -52,16 +69,17 @@ Configure a countdown or count-up timer that appears on your stream.
 
 | Feature | Description |
 |---|---|
-| BRB Asset | Image/GIF overlay with auto-audio muting |
-| Starting Soon | Intro screen with "Auto-activate on Start" option |
-| Floating Bubble | Quick-access overlay for controlling the stream |
-| Notification Controls | Manage your stream from the notification tray |
-| Stream Timer | Professional countdown/count-up widget |
+| BRB Asset | Image/GIF overlay with independent audio mixer toggles |
+| Starting Soon | Intro screen with "Auto-activate on Start" capability |
+| Cooldown Timer | Countdown widget with custom fonts, colors, and animations |
+| Interactive Positioning | Drag-and-drop timer placement on a simulated canvas |
+| Asset Validation | Enforces 10MB and 1080p limits for performance stability |
+| Auto-Off Behavior | Automatically closes assets when the timer hits 0:00 |
 
 ---
 
 ## Related Documentation
 
-- [Canvas Setup](./canvas.md)
-- [Audio Filters](./audio.md)
-- [Performance Tiers](../performance_limits.md)
+- [Canvas Settings](./canvas.md)
+- [Floating Control](./floating.md)
+- [Video Settings](./video.md)

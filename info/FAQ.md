@@ -23,7 +23,7 @@ Download from the official website: [livelens.live](https://www.livelens.live/)
 
 ### How do I stream to Twitch?
 1. Get your RTMP URL and stream key from Twitch
-2. In LiveLens, go to Settings → Streaming
+2. In LiveLens, go to **Global Settings** → **Streaming**
 3. Enter your RTMP URL and stream key
 4. Tap "Start Stream"
 
@@ -60,19 +60,22 @@ LiveLens supports H.264 and H.265 video codecs (device dependent).
 - Web sources
 - GIFs
 - VTuber models
+- UVC (Beta)
+- ChatBox
+- Sound
 
 ### Can I import and export scenes?
 Yes! You can save and load scenes from JSON files.
 
 ### How do I switch scenes?
-Tap on the scene name to switch. Note: Scene switching is unavailable during active streaming or recording.
+Tap on the scene name to switch. You can switch scenes at any time, including during active streaming or recording, for seamless transitions.
 
 ---
 
 ## Audio
 
 ### How do I capture microphone and internal audio?
-1. Go to Settings → Audio
+1. Go to **Global Settings** → **Audio**
 2. Enable both microphone and internal audio
 3. Adjust levels as needed
 
@@ -94,13 +97,13 @@ Yes! Use the audio monitor to listen to your microphone levels.
 ## VTuber Tools
 
 ### How do I import a Live2D model?
-1. Prepare your Live2D model in Cubism format (up to v5.1)
+1. Prepare your Live2D model in Cubism format (up to v6.0)
 2. In LiveLens, add a VTuber source
-3. Select your model file
-4. Customize settings (breathing, idle motion, etc.)
+3. Select your model folder
+4. Customize settings (face tracking, lip sync, etc.)
 
 ### What Live2D versions are supported?
-LiveLens supports Cubism 5.1 and earlier versions.
+LiveLens supports Cubism 6.0 natively and earlier versions.
 
 ### Can I use lip sync with my VTuber model?
 Yes! LiveLens includes real-time microphone lip sync.
@@ -139,7 +142,7 @@ LiveLens supports custom JSON themes for floating controls. Import themes from t
 Yes! Add and customize countdown timers in your scenes.
 
 ### How do I change canvas layout?
-LiveLens supports 16:9 and 9:16 layouts. Choose from Settings → Canvas.
+LiveLens supports 16:9 and 9:16 layouts. Choose from **Global Settings** → **Canvas**.
 
 ### What are snap guides?
 Snap guides help you align and position sources precisely on your canvas.
@@ -150,7 +153,7 @@ Snap guides help you align and position sources precisely on your canvas.
 
 ### LiveLens keeps crashing
 - **Solution:** Update to the latest version
-- Clear app cache: Settings → Apps → LiveLens → Storage → Clear Cache
+- Clear app cache: **Android Settings** → **Apps** → **LiveLens** → **Storage** → **Clear Cache**
 - Restart your device
 - Check available storage (at least 500MB free)
 
@@ -172,10 +175,10 @@ Snap guides help you align and position sources precisely on your canvas.
 - Try re-importing the model
 - Update to the latest LiveLens version
 
-### Scene switching doesn't work during streaming
-- This is by design! Scene switching is disabled during active streaming
-- Plan your scenes before going live
-- Use different cameras/sources to switch between layouts
+### Can I switch scenes while streaming?
+- **Yes!** LiveLens supports seamless scene switching even during an active stream or recording.
+- You can switch via the Scene Manager or the **Pinned Scenes** in the Floating Panel.
+- Ensure all scenes use the same canvas resolution for smooth transitions.
 
 ### Device is getting too hot
 - Reduce FPS (30 instead of 60)
@@ -194,7 +197,7 @@ Up to 4K (depending on device capabilities).
 Maximum source count depends on device performance. Start with 5-10 sources and adjust based on performance.
 
 ### Can I use multiple scenes simultaneously?
-No, but you can quickly switch between scenes (when not streaming).
+No, but you can quickly switch between them at any time, including during live sessions.
 
 ### Why is my device slow during streaming?
 - Check available RAM
@@ -214,7 +217,7 @@ No! LiveLens is privacy-first and doesn't require creating an account.
 Yes, your stream credentials are stored locally on your device.
 
 ### Can I delete my settings/data?
-Yes! Go to Settings → Clear All Data to reset LiveLens.
+Yes! Go to **Global Settings** → **Clear All Data** to reset LiveLens.
 
 For more details, see our [Privacy Policy](https://www.livelens.live/pages/privacy.html)
 

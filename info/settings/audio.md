@@ -19,7 +19,8 @@ The Mixer section allows you to control the basic audio flow of your stream.
 
 ### System & App Audio
 - **Mute Internal Audio**: Toggle sounds coming from your games and other applications.
-- **Capture Voice Chat**: Use this to include voice chat from other apps (like Discord or In-Game chat) directly into your stream mix.
+- **Sync with System Volume**: When enabled, you can control the app's internal mixer volume using your phone's physical volume buttons.
+- **Capture Voice Chat**: Use this to include voice chat from other apps (like Discord or In-Game chat) directly into your stream mix via Direct Mixer Injection.
 
 ---
 
@@ -46,8 +47,9 @@ Clean up your audio and make your voice sound professional with real-time filter
 | Stereo Mic | Captures spatial audio (Auto-fallback to Mono if unsupported) |
 | Monitoring | Hear your own voice in real-time |
 | Voice Chat | Injects game/app chat into the stream mix |
+| Volume Sync | Syncs mixer volume with physical phone buttons |
 | Noise Gate | Removes background noise when you aren't talking |
-| Gain Boost | Amplifies quiet microphones |
+| Gain Boost | Amplifies quiet microphones (up to 5x) |
 | HPF | Removes deep humming or fan noises |
 
 ---
@@ -56,4 +58,4 @@ Clean up your audio and make your voice sound professional with real-time filter
 
 - [Sources](../sources/sources.md)
 - [UVC Audio](../sources/uvc.md)
-- [Streaming Setup](./streaming.md)
+- [Video & Stream Settings](./video.md)

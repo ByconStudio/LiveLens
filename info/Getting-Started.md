@@ -33,11 +33,13 @@ Welcome to LiveLens! This guide will help you download, install, and set up your
 - **Network**: 10+ Mbps upload speed for streaming
 
 ### 📊 Performance Targets
-| Device Type | Max FPS | Max Resolution | Recommended Bitrate |
+LiveLens categorizes devices into **6 Performance Tiers** based on your CPU (SoC) to ensure stability. For a detailed list of supported processors and their specific limits, refer to the [CPU Compatibility & Tiers Guide](./cpu_info.md).
+
+| Tier Group | Max Resolution | Max FPS | Recommended Bitrate |
 |---|---|---|---|
-| Mid-Range (4-6GB RAM) | 30 FPS | 720p | 2-3 Mbps |
-| High-End (8GB RAM) | 60 FPS | 1080p | 4-5 Mbps |
-| Flagship (12GB+ RAM) | 60 FPS | 4K | 8-12 Mbps |
+| Entry / Low-Mid | 480p - 720p | 30 FPS | 2-3 Mbps |
+| Mid / Upper-Mid | 1080p | 30-60 FPS | 4-6 Mbps |
+| Flagship / Ultra | 1440p - 4K | 60 FPS | 8-12 Mbps |
 
 ---
 
@@ -75,12 +77,12 @@ Welcome to LiveLens! This guide will help you download, install, and set up your
    - ✅ **Storage** - For saving scenes and recordings
    - ✅ **Overlay** (if asked) - For floating controls
 
-> **Tip**: You can grant these later in Settings → Apps → LiveLens → Permissions
+> **Tip**: You can grant these later in **Android Settings** → **Apps** → **LiveLens** → **Permissions**
 
 ### Step 5️⃣: Launch LiveLens
 
 - Tap on **LiveLens** icon to open the app
-- You're ready to go! 🎉
+- You're ready to go! 🎉 For a detailed tour of the main interface, see the [Home Screen Guide](./home/home.md).
 
 ---
 
@@ -95,7 +97,7 @@ Choose your default canvas size:
 - **16:9** - For desktop/laptop displays (YouTube, Twitch)
 - **9:16** - For vertical/mobile streams (Instagram, TikTok)
 
-> **You can change this later in Settings**
+> **You can change this later in Global Settings**
 
 ### 3. Configure Audio Input
 
@@ -176,7 +178,7 @@ Your LiveLens is now configured and ready to use!
 
 ### Step 1: Go to Streaming Settings
 
-1. From the **Home** screen, tap **⚙️ Settings**
+1. From the **Home** screen, tap **⚙️ Global Settings**
 2. Scroll down and select **"Streaming"**
 
 ### Step 2: Enter RTMP URL
@@ -209,7 +211,7 @@ Your LiveLens is now configured and ready to use!
 
 ### Step 5: Audio Configuration
 
-1. Go to **"Audio Settings"**
+1. Go to **Global Settings** → **Audio**
 2. Enable:
    - ✅ **Microphone** - Your voice
    - ✅ **System Audio** - Game/music audio
@@ -247,7 +249,7 @@ Your LiveLens is now configured and ready to use!
 - 📊 Watch bitrate/FPS at the top
 - 🔊 Monitor audio levels
 - 🎚️ Adjust settings in real-time
-- 🎬 Switch between overlays if needed
+- 🎬 Switch between scenes or overlays if needed
 
 ### Stop Streaming
 
@@ -308,7 +310,7 @@ Your LiveLens is now configured and ready to use!
 
 **Problem**: Camera/Microphone not working
 - **Solution**:
-  - Go to Settings → Apps → LiveLens → Permissions
+  - Go to **Android Settings** → **Apps** → **LiveLens** → **Permissions**
   - Enable Camera and Microphone
   - Restart LiveLens
 
@@ -379,6 +381,7 @@ Once you're comfortable with basic streaming:
 
 1. **Explore Advanced Features**
    - [Add multiple scenes](/wiki/Features-Guide)
+   - [Set up Chat Box overlay](/wiki/Features-Guide#chat-box)
    - [Set up VTuber avatar](/wiki/Features-Guide#vtuber-focused-features)
    - [Configure overlays](/wiki/Features-Guide#overlays--stream-tools)
 

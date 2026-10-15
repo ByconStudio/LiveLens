@@ -29,17 +29,37 @@ Adjust these settings based on your internet speed and device performance.
 
 ---
 
+## 🛠️ Advanced Encoder Settings
+
+These settings are for power users who want to fine-tune the video encoding process.
+
+### 1. Video Encoder (Codec)
+- **H.264**: The universal standard for streaming. Works on all platforms.
+- **H.265 (HEVC)**: Higher efficiency but requires more CPU power. 
+- **Note**: H.265 is currently supported for **Local Recording** only. Live broadcasts will always use H.264 for maximum compatibility.
+
+### 2. I-Frame Interval
+- Controls how often a full "keyframe" is generated. 
+- **Recommendation**: Set to **2s** for most streaming platforms (YouTube/Twitch).
+
+### 3. Sharpness
+- **Strength**: Adjust from 0.0 to 1.0.
+- **What it does**: Enhances the edges in your video to make the stream look "crisper". 
+- **Warning**: High sharpness can sometimes introduce "noise" in low-light conditions.
+
+---
+
 ## 📺 Streaming Destinations
 
 LiveLens supports two ways to go live:
 
 ### 1. Account-Based (YouTube, Twitch, Facebook)
-- Log in once in **Account Settings**.
+- Log in once in **Global Settings** → **Account**.
 - One-tap "Go Live" with automatic stream title and chat integration.
 
 ### 2. Custom RTMP
 - Stream to any platform (Kick, Trovo, Private Servers) by entering the **Server URL** and **Stream Key**.
-- **Multi-Stream Support**: Enable "Multi-Stream Mode" in settings to add multiple RTMP destinations and go live on all of them at once.
+- **Multi-Stream Support**: Enable **"Multi-Stream Mode"** in **Global Settings** → **Streaming** to add multiple RTMP destinations and go live on all of them at once.
 
 ---
 
@@ -63,6 +83,7 @@ All video and stream quality settings are **locked** while you are live. You mus
 | Feature | Description |
 |---|---|
 | ABR | Prevents crashes by adjusting quality to network speed |
+| Sharpness | Enhances video edge clarity (0.0 to 1.0 range) |
 | Multi-Streaming | Stream to YouTube, Twitch, and RTMP at the same time |
 | Scheduling | Manage YouTube stream metadata from the app |
 | H.264 | Standard codec used for all live broadcasts |

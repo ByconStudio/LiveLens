@@ -12,14 +12,14 @@ Each tier comes with recommended limits for sources and resolution/FPS.
 
 LiveLens detects your phone's CPU and assigns it to one of the following tiers:
 
-| Tier | Typical Limits (Text / Image / Web / Video) |
+| Tier | Typical Limits (Text / Image / Web / Video / Sound) |
 |---|---|
-| **Entry** | 3 / 2 / 1 / 0 |
-| **Low-Mid** | 4 / 2 / 1 / 0 |
-| **Mid** | 5 / 3 / 2 / 1 |
-| **Upper-Mid** | 6 / 4 / 2 / 1 |
-| **Flagship** | 8 / 5 / 3 / 2 |
-| **Ultra Flagship** | 10 / 6 / 4 / 3 |
+| **Entry** | 3 / 2 / 1 / 0 / 1 |
+| **Low-Mid** | 4 / 2 / 1 / 0 / 1 |
+| **Mid** | 5 / 3 / 2 / 1 / 1 |
+| **Upper-Mid** | 6 / 4 / 2 / 1 / 1 |
+| **Flagship** | 8 / 5 / 3 / 2 / 2 |
+| **Ultra Flagship** | 10 / 6 / 4 / 3 / 2 |
 
 ---
 
@@ -39,7 +39,7 @@ Some sources have **fixed limits** due to extreme resource requirements or techn
 For other sources (Text, Image, Web, GIF, Video), you can manually override the recommended limits.
 
 ### 1. Custom Source Limits
-1. Go to **Settings → Advanced**.
+1. Go to **Global Settings** → **Advanced**.
 2. Toggle **Custom Source Limits** to ON.
 3. Use the sliders to boost the maximum allowed count.
 
@@ -49,11 +49,12 @@ For other sources (Text, Image, Web, GIF, Video), you can manually override the 
 - **Web**: Up to 10
 - **GIF**: Up to 10
 - **Video**: Up to 5 (Only on devices that support video sources)
+- **Sound**: Up to 5
 
 > **Warning**: Increasing these limits beyond recommendations will use significantly more CPU and RAM. This may cause stream lag, device overheating, or app crashes.
 
 ### 2. Unlock All Settings (Pro Mode)
-1. In **Settings → Advanced**, toggle **Unlock All Settings**.
+1. In **Global Settings** → **Advanced**, toggle **Unlock All Settings**.
 2. This allows you to force-enable resolutions (like 4K) or FPS (60fps) that are normally hidden for your device tier.
 
 ---

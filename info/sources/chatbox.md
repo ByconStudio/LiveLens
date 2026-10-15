@@ -22,17 +22,34 @@ The Chat Box Settings popup opens, featuring a **Live Simulation Preview** on th
 
 ## Settings Interface
 
-### Live Simulation Preview
+The Settings Interface is split into two main sections: **Live Preview** (left) and **Control Panel** (right).
+
+### 📺 Live Simulation Preview
 The left side shows a live preview of the selected preset. 
 - **Dummy Messages**: The preview automatically generates simulated messages from YouTube and Twitch to show you exactly how the chat will look and animate.
-- **Real-time Feedback**: As you select different presets, the preview updates instantly.
+- **Real-time Feedback**: As you select different presets or change visibility settings, the preview updates instantly.
 
-### Available Presets
-LiveLens includes all **20 professional presets** found in your library, categorized by their visual style:
+### ⚙️ Control Panel
+The right side contains the settings for behavior, dimensions, and appearance:
+
+**1. Dimensions & Resolution**
+- **Width & Height**: Set custom pixel dimensions for the Chat Box canvas (default: 600x600).
+- **Reset Size**: Tap the refresh icon next to the input fields to instantly reset dimensions back to 600x600.
+
+**2. Timer Settings (Auto-Hide)**
+- **AUTO-HIDE CHAT**: Toggle this to automatically hide messages after they have been visible for a certain duration. This is useful for keeping the stream clean when there is no active chat.
+- **HIDE DELAY**: When Auto-Hide is enabled, use the slider to set the delay from **3 to 60 seconds**.
+
+**3. Available Presets**
+LiveLens includes all **24 professional presets** found in your library, categorized by their visual style. Selecting a preset dynamically moves it to the top of the grid for quick identification:
 
 #### 🌟 Glow & Cyber Styles
 - **Cyber Glow**: High-contrast green glow with a tech-inspired border.
 - **Lava Glow**: Deep red and orange tones with intense glow effects.
+- **Magma Neon**: Intense volcanic orange glow with a sharp border.
+- **Toxic Neon**: Radioactive green glow with rounded bubble containers.
+- **Electric Neon**: High-voltage blue glow for a high-energy look.
+- **Ultraviolet**: Deep magenta/purple glow with large rounded bubbles.
 - **Neon Drift**: Vibrant cyan aesthetics for fast-paced action.
 - **Neon Pulse**: Intense magenta pulse with rounded bubble containers.
 - **Vaporwave**: Retro-futuristic purple and teal aesthetics.
@@ -58,9 +75,7 @@ LiveLens includes all **20 professional presets** found in your library, categor
 - **Horror Night**: Spooky red-on-black aesthetic with a custom horror font.
 - **Classic**: The reliable, high-legibility standard chat style.
 
-Tap a preset to see it in the preview, and tap **Apply** to use it in your scene.
-
-Tap a preset to see it in the preview, and tap **Apply** to use it in your scene.
+Tap a preset to see it in the preview, and tap **Apply** at the top-right corner to use it in your scene.
 
 ---
 

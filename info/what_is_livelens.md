@@ -87,8 +87,10 @@ Currently supported sources include:
 - **GIF**
 - **Video**
 - **Web**
+- **Chat Box**
 - **VTuber**
 - **UVC (Beta)**
+- **Sound**
 
 The source system is designed to allow different types of content to be combined into a single custom scene.
 
@@ -237,7 +239,7 @@ Users build their own scenes instead of being restricted to predefined layouts.
 
 ### Multiple source types
 
-LiveLens brings different source types together in a single mobile streaming environment, including video, GIF, web, VTuber, screen capture, camera, image, and text sources.
+LiveLens brings different source types together in a single mobile streaming environment, including video, GIF, web, chat box, VTuber, screen capture, camera, image, and text sources.
 
 ### Empty-canvas design
 
@@ -298,8 +300,11 @@ LiveLens is independently developed by Arpan under Bycon Studio.
 
 ## Related Documentation
 
+- [Home Screen](./home/home.md)
 - [Scenes](../scene/scene.md)
 - [Missing Assets](../scene/missing_assets.md)
+- [CPU Compatibility](../cpu_info.md)
+- [Sources](../sources/sources.md)
 - [Sources](../sources/sources.md)
 - [Streaming](../streaming/README.md)
 - [Recording](../recording/README.md)

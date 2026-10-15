@@ -124,6 +124,21 @@ Other common source controls, such as moving, resizing, hiding, locking, and sou
 
 ---
 
+## Android 14+ System Limitations
+
+Starting with **Android 14 (API 34)**, the Android system imposes stricter privacy and resource restrictions on camera usage.
+
+### ⚠ Camera Limitation Warning
+When you use the Camera Source on a device running Android 14 or above, LiveLens may display a warning dialog with the following information:
+
+- **Minimized App Restriction**: The system restricts camera access when the app is minimized or sent to the background.
+- **Freeze/Stop Behavior**: If you leave the LiveLens app (e.g., to check another app) while streaming or recording, the camera feed may **stop or freeze**.
+- **Unaffected Sources**: Other sources such as **Screen Capture, Images, Text, and Overlays** will continue to function normally even when the app is in the background.
+
+**Pro-Tip**: For the most stable streaming experience with a camera, it is highly recommended to keep the LiveLens app open and in the foreground.
+
+---
+
 ## Camera Source Settings Summary
 
 | Setting | Description |

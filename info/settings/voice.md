@@ -9,7 +9,7 @@ LiveLens features a built-in **Voice Chat** system that allows you to collaborat
 ## 🚪 Joining or Creating a Room
 
 To start a conversation:
-1. Go to **Settings → Voice Chat**.
+1. Go to **Global Settings** → **Voice Chat**.
 2. Tap **Enter Room**.
 3. **Create a Room**: Enter a unique Room ID and a password. Your friends can use these same details to join you.
 4. **Join a Room**: Enter the Room ID and Password provided by your collaborator.

@@ -70,4 +70,4 @@ For stability, **Canvas Settings are locked** while you are actively **Streaming
 
 - [Sources](../sources/sources.md)
 - [Performance Tiers](../performance_limits.md)
-- [Streaming Setup](./streaming.md)
+- [Video & Stream Settings](./video.md)

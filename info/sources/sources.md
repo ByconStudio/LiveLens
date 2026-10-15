@@ -15,6 +15,8 @@ LiveLens currently provides the following source types:
 - GIF
 - Video
 - Web
+- Chat Box
+- Sound
 - VTuber
 - UVC (Beta)
 
@@ -41,6 +43,8 @@ The source selection popup currently provides:
 - GIF
 - Video
 - Web
+- Chat Box 
+- Sound
 - VTuber
 - UVC (Beta)
 
@@ -190,6 +194,8 @@ Each source has its own dedicated documentation page containing its available se
 - [GIF](gif.md)
 - [Video](video.md)
 - [Web](web.md)
+- [Chat Box](chatbox.md)
+- [Sound](sound.md)
 - [VTuber](vtuber.md)
 - [UVC (Beta)](uvc.md)
 
@@ -199,6 +205,10 @@ These pages will document the individual settings and behavior of each source.
 
 ## Related Documentation
 
+- [Home Screen (Broadcast Center)](../home/home.md)
 - [Scenes](../scenes/README.md)
 - [Scene Import & Export](../import-export/README.md)
 - [Canvas](../settings/canvas.md)
+- [Video & Stream Settings](../settings/video.md)
+- [Account Linking](../settings/account.md)
+- [VTuber Settings](../settings/vtuber.md)
