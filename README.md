@@ -195,9 +195,8 @@ LiveLens is built on a **creator-first monetization model**. We believe creators
 
 ### 💖 How to Support Development
 If you love LiveLens and want to keep it ad-free and free for everyone, consider supporting:
-- 🌸 **GitHub Sponsors**: [github.com/sponsors/ByconStudio](https://github.com/sponsors/ByconStudio)
-- 💳 **PayPal (International)**: [paypal.me/arpanstream](https://www.paypal.me/arpanstream)
-- 📱 **UPI (India)**: Available directly inside **Global Settings** in the app.
+- 🌸 **GitHub Sponsors**: [Sponsor ByconStudio on GitHub](https://github.com/sponsors/ByconStudio)
+- 🌐 **Website Support Page**: [View All Support Options](https://www.livelens.live/pages/support.html)
 
 ### 🏢 Corporate & Brand Sponsorships
 Brands and organizations can support LiveLens development while gaining high-visibility partner positioning:
