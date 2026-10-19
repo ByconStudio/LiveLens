@@ -72,9 +72,6 @@ Fine-tune how the video signal is processed by the hardware.
 ### 🗝️ I-Frame Interval
 Controls how often a full "keyframe" is generated (1s, 2s, or 5s). A **2s interval** is standard for YouTube and Twitch.
 
-### 🗡️ Sharpness
-Adjust from **0.0 to 1.0** to enhance the clarity of edges in your video. High sharpness makes the image look "crisper" but may introduce visual noise.
-
 ---
 
 ## 🔄 Reset to Defaults
@@ -95,7 +92,6 @@ If you experience performance issues or lag, use the **"Reset to Performance Def
 | H.265 | Advanced codec for local recordings (high quality, small size) |
 | Device Optimization | Automatically locks settings based on CPU power |
 | Storage Estimator | Shows remaining footage time based on bitrate |
-| Sharpness | Enhances video edge clarity (0.0 to 1.0 range) |
 
 ---
 

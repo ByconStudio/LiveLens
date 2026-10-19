@@ -22,8 +22,13 @@ The top half of the screen features a large **Live Preview** of your scene. This
 
 The **Sources** section on the bottom-left allows you to manage the layers of your scene.
 
+### 🎛️ Post Processing (Tune Icon)
+Located in the header of the Sources panel, the **Tune icon** opens the **Post Processing Popup**.
+- **Visual Effects & Adjustments**: Apply real-time post-processing effects and image adjustments (such as Sharpness, Color Grading, Bloom, Denoise, Vignette, and LUT Presets) to enhance your overall stream rendering.
+- **Detailed Guide**: For a full breakdown of effects and GPU performance load, see [Post Processing Deep Dive](./post_processing.md).
+
 ### 🎬 Scene Management (Clapperboard Icon)
-Located next to the "Add Source" icon, the **Clapperboard icon** opens the **Scene Selection Popup**.
+Located in the header of the Sources panel, the **Clapperboard icon** opens the **Scene Selection Popup**.
 - **Switch Scenes**: Quickly switch between different pre-configured layouts (e.g., "Gaming", "Just Chatting", "BRB").
 - **Manage Layouts**: Create, rename, or delete scenes to change your entire stream's look with one tap.
 

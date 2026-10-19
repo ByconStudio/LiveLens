@@ -70,8 +70,9 @@ Tired of the limitations, mandatory watermarks, intrusive ads, and subscription 
 
 ## 🚀 Key Features & Sources
 
-### 🎨 Rendering Engine
+### 🎨 Rendering Engine & Post-Processing
 - ⚡ **GPU-Accelerated OpenGL ES**: Ultra-low latency FBO-based composition.
+- 🎛️ **Real-Time GPU Shaders & Effects**: Cinematic **LUT Presets** (Cyberpunk, Vintage, B&W), **Bloom (Glow)**, **Denoise**, **Color Grading**, **Sharpness**, and **Vignette** ([Guide](info/home/post_processing.md)).
 - 🔄 **Real-Time Transforms**: Scale, rotate, crop, and layer sources dynamically.
 - 🖼️ **Unified Scene Pipeline**: Single composition pass for live preview, streaming, and local recording.
 - ⚡ **60 FPS Hardware Encoding**: Smooth high-framerate output on modern mobile GPUs.
@@ -148,6 +149,7 @@ Advanced users can manually override default tier limits:
 | Feature | LiveLens | Most Mobile Streaming Apps |
 |---------|----------|----------------------------|
 | 🎨 Empty Canvas & Multi-Scene | ✅ Full OBS Freedom | ❌ Fixed Templates |
+| 🎛️ Real-Time GPU Post-Processing (LUTs, Bloom) | ✅ Native Shader Filters | ❌ None |
 | 👾 Live2D / VTuber Support | ✅ Native Cubism v5.1/5.3+ | ❌ None / Restricted |
 | 🌐 Web & Custom HTML Sources | ✅ Full Interactive Support | ⚠️ Very Limited |
 | 🔌 USB Capture Card (UVC) | ✅ Supported (Beta) | ❌ Unsupported |
@@ -229,7 +231,8 @@ Explore the full documentation hosted directly in this repository:
 - 📹 [Video Settings](info/settings/video.md) | 📡 [Streaming Settings](info/settings/streaming.md) | 📹 [Recording Settings](info/settings/recording.md)
 - 🎙️ [Audio Settings](info/settings/audio.md) | 📐 [Canvas & Resolution](info/settings/canvas.md) | 👾 [VTuber Settings](info/settings/vtuber.md)
 - 💬 [Chat Settings](info/settings/chat.md) | 🎨 [Overlay Customization](info/settings/overlay.md) | 🎛️ [Floating Controls](info/settings/floating.md)
-- 🔒 [Privacy Settings](info/settings/privacy.md) | 🛠️ [Advanced Settings](info/settings/advanced.md) | 🗣️ [Voice Chat Settings](info/settings/voice.md)
+- 🎛️ [Post-Processing Effects](info/home/post_processing.md) | 🔒 [Privacy Settings](info/settings/privacy.md) | 🛠️ [Advanced Settings](info/settings/advanced.md)
+- 🗣️ [Voice Chat Settings](info/settings/voice.md)
 
 ### ⚡ System & Hardware
 - 📊 [Performance Tiers & Limits](info/performance_limits.md)
