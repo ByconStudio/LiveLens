@@ -9,10 +9,5 @@ Many users are asking, "When will LiveLens be available?". Here is our current t
 
 ---
 
-## Other Roadmap Items
-- Enhanced 4K rendering stability.
-- Professional-grade audio mixing features.
-- Advanced VTuber character animation blending.
-- More custom theme options for overlays.
 
 Stay tuned to the `#patch-notes` channel for more updates!
